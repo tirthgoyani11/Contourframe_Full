@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Projects | Contourframe Studio</title>
+  <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/static/css/home.css">
+  <link rel="stylesheet" href="/static/css/projects.css">
+  <script src="/static/js/projects.js" defer></script>
+</head>
+<body>
+  <header class="masthead">
+    <nav class="nav frame" aria-label="Main navigation">
+      <a class="brand" href="/"><img src="/static/favicon.svg" width="36" height="36" alt="">Contourframe</a>
+      <div class="nav-links"><a href="/#workflow">Help</a></div>
+    </nav>
+  </header>
+  <main class="frame projects">
+    <h1>Projects</h1>
+    <p>Start with a blank timeline, try the alpine sample, or import a Contourframe project JSON.</p>
+    <form id="project-actions">
+      <label for="project-name">New project name</label>
+      <div class="project-controls">
+        <input id="project-name" name="projectName" maxlength="100" placeholder="Untitled map">
+        <button class="primary-action" type="submit">New project</button>
+        <button class="nav-action" type="button" id="open-sample">Open sample</button>
+        <button class="nav-action" type="button" id="import-project">Import project</button>
+        <input type="file" id="project-file" accept=".json,application/json" hidden>
+      </div>
+    </form>
+    <p id="project-status" role="status" aria-live="polite"></p>
+    <h2>Saved projects</h2>
+    <ul id="project-list"></ul>
+  </main>
+</body>
+</html>

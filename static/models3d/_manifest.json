@@ -1,0 +1,1526 @@
+[
+ {
+  "id": "araba",
+  "name": "Car",
+  "description": "Basit low-poly araba — gövde, kabin, dört tekerlek ve farlar.",
+  "category": "Civilian",
+  "tags": [
+   "araç",
+   "araba",
+   "low-poly"
+  ],
+  "cover": "covers/araba.png",
+  "hidden": true
+ },
+ {
+  "id": "asker",
+  "name": "Soldier",
+  "description": "Detaylı low-poly asker figürü — kask (NVG montajlı), plaka taşıyıcı yelek + fişeklikler, tüfek (namlu/şarjör/dipçik/nişangah), sırt çantası, eldivenli eller ve postallar. Tüfeği önde tutarken duruyor.",
+  "category": "Modern Warfare",
+  "tags": [
+   "figür",
+   "askeri",
+   "asker",
+   "piyade",
+   "low-poly"
+  ],
+  "cover": "covers/asker.png",
+  "hidden": true
+ },
+ {
+  "id": "askeri-kamyon",
+  "name": "Military Truck",
+  "description": "6x6 branda kasalı askeri ikmal kamyonu (Ural-4320 sınıfı) — öne çıkık aligator kaput, köşeli üç kişilik kabin, yüksek yerden geçiş, altı iri arazi lastiği (arkada çift dingil), altı dua üzerine gerilmiş kavisli branda, kabin arkasında dik duran yedek lastik, yan basamak ve ön tampon çeki kancaları. Gövde ve branda renkleri ayrı ayrı değişir; sürüşte altı tekerlek de yuvarlanır, dönüşte ön tekerlekler direksiyon kırar.",
+  "category": "Modern Warfare",
+  "tags": [
+   "askeri",
+   "araç",
+   "kamyon",
+   "ikmal",
+   "6x6",
+   "branda",
+   "low-poly"
+  ],
+  "cover": "covers/askeri-kamyon.png"
+ },
+ {
+  "id": "askeri-us",
+  "name": "Military Base",
+  "description": "Low-poly askeri üs dioraması — çevre duvarı, 4 köşede gözetleme kulesi, ana giriş kapısı + bom bariyer + nöbet kulübesi, karargâh ve kışla binaları, bayrak direği, helipad (H), çadırlar ve kum torbası mevzileri.",
+  "category": "Civilian",
+  "tags": [
+   "mekan",
+   "sahne",
+   "askeri üs",
+   "kamp",
+   "low-poly"
+  ],
+  "cover": "covers/askeri-us.png",
+  "hidden": true
+ },
+ {
+  "id": "avci-ucagi",
+  "name": "Fighter Jet",
+  "description": "Tek motorlu tek kişilik çok amaçlı avcı uçağı (F-16 sınıfı) — kırpık delta kanat, gövdeye kaynaşmış kanat kökü ve strake, çerçevesiz altın kaplamalı kabarık kanopi, karın altında hava alığı, tek dikey stabilize, tek büyük egzoz nozulu, kanat altı ve uç istasyonlarında harici yük. Gövde rengi ve kuyruk rengi ayrı ayrı değişir; türbin döner, geçişte uçak kalkış yapar, viraja sert yatar, alçalıp iner ve havalanınca iniş takımı toplanır.",
+  "category": "Modern Warfare",
+  "tags": [
+   "askeri",
+   "uçak",
+   "avcı uçağı",
+   "savaş uçağı",
+   "hava kuvvetleri",
+   "low-poly"
+  ],
+  "cover": "covers/avci-ucagi.png"
+ },
+ {
+  "id": "awacs",
+  "name": "AWACS",
+  "description": "Detaylı low-poly AWACS erken uyarı uçağı (E-3 Sentry tarzı) — uzun gövde + burun/kokpit, süpürülmüş kanatlar, 4 podlu motor, dikey/yatay kuyruk ve üstte iki direk üzerinde DÖNEN radar kubbesi (rotodome). Havada uçar pozisyonda.",
+  "category": "Modern Warfare",
+  "tags": [
+   "hava",
+   "askeri",
+   "awacs",
+   "radar",
+   "animasyon",
+   "low-poly"
+  ],
+  "cover": "covers/awacs.png",
+  "hidden": true
+ },
+ {
+  "id": "balistik-fuze-tel",
+  "name": "Ballistic Missile TEL",
+  "description": "Detaylı low-poly balistik füze fırlatıcı / TEL (Iskander/Scud tarzı) — 8x8 ağır kamyon + kabin, dik konumda tek büyük balistik füze (gövde + sivri savaş başlığı + kuyruk kanatları + bantlar), fırlatma masası, hidrolik erektör kolları ve stabilizatör ayakları.",
+  "category": "Modern Warfare",
+  "tags": [
+   "araç",
+   "askeri",
+   "füze",
+   "balistik",
+   "tel",
+   "low-poly"
+  ],
+  "cover": "covers/balistik-fuze-tel.png",
+  "hidden": true
+ },
+ {
+  "id": "balistik-fuze",
+  "name": "Missile",
+  "description": "Uçuş hâlindeki kısa menzilli taktik balistik füze (Iskander-M / 9M723 sınıfı, boy 7.30 m, çap 0.92 m) — teğetsel oj başlık, ince silindirik sevk gövdesi, kuyrukta X yerleşimli dört ok kanatçık, tabanda gömük motor lülesi. Kanat yok. Gövde ve başlık ayrı renk alır. Varsayılan duruşu dik: burnu yukarı. Dönme noktası tam merkezinde, yani her açıda yerinde döner. Geçişte ilk ve son konumdaki rotasyonlar arasında yumuşak gider; yerden yere geçişte ayrıca yükseklik yayı çizer. Varışta patlama ve patlamadan sonra kaybolma ayrı birer seçenek.",
+  "category": "Modern Warfare",
+  "tags": [
+   "askeri",
+   "füze",
+   "balistik füze",
+   "roket",
+   "srbm",
+   "taktik füze",
+   "low-poly"
+  ],
+  "cover": "covers/balistik-fuze.png"
+ },
+ {
+  "id": "baraj",
+  "name": "Hydro Dam",
+  "description": "Low-poly hidroelektrik baraj dioraması — toprak bloğu (yeşil üst, kahverengi yan), göl genişliğini tutan geniş baraj, iki yanda yüksek abutman, yüksek rezervuar gölü, mansapta alçak nehir + yeşil yamaçlar, kapaklı dolu savak + akan su/köpük, cebri borular (penstock), santral binası, kret yolu + korkuluk, çam ağaçları ve enerji nakil direği + hatlar.",
+  "category": "Energy",
+  "tags": [
+   "enerji",
+   "baraj",
+   "hes",
+   "hidroelektrik",
+   "low-poly"
+  ],
+  "cover": "covers/baraj.png",
+  "hidden": true
+ },
+ {
+  "id": "bisiklet",
+  "name": "Bicycle",
+  "description": "Şehir bisikleti — çamurluklu, önde hasır sepetli. Kadro rengi değişir, sepetin iki yanına yazı ya da görsel gelir, sürüşte tekerlekler yuvarlanır.",
+  "category": "Transportation",
+  "tags": [
+   "ulaşım",
+   "araç",
+   "bisiklet",
+   "low-poly"
+  ],
+  "cover": "covers/bisiklet.png"
+ },
+ {
+  "id": "buyutec",
+  "name": "Magnifying Glass",
+  "description": "Haritanın üstünde yatık duran büyüteç: pirinç çember, kavisli mercek, ahşap tornalı sap. Metal parçaların rengi değiştirilebilir.",
+  "category": "Components",
+  "tags": [
+   "bileşen",
+   "büyüteç",
+   "arama",
+   "işaret",
+   "low-poly"
+  ],
+  "cover": "covers/buyutec.png"
+ },
+ {
+  "id": "cam-agaci",
+  "name": "Pine Tree",
+  "description": "Low-poly çam ağacı — koni katmanlı yaprak ve silindirik gövde.",
+  "category": "Civilian",
+  "tags": [
+   "doğa",
+   "ağaç",
+   "low-poly"
+  ],
+  "cover": "covers/cam-agaci.png",
+  "hidden": true
+ },
+ {
+  "id": "cekmeli-karavan",
+  "name": "Travel Trailer",
+  "description": "Low-poly çekmeli karavan takımı — önde çeken SUV (farlar, camlar, tamponlar, çeki topu), arkada A-çatı oklu (drawbar) klasik karavan römork (krem gövde + teal şerit, kapı, camlar, tek aks tekerleri + çamurluk, çatı menfezi); araç karavanı çekiyor.",
+  "category": "Vacation",
+  "tags": [
+   "tatil",
+   "karavan",
+   "römork",
+   "yolculuk",
+   "araç",
+   "low-poly"
+  ],
+  "cover": "covers/cekmeli-karavan.png",
+  "hidden": true
+ },
+ {
+  "id": "checkpoint",
+  "name": "Checkpoint",
+  "description": "Low-poly askeri kontrol noktası (checkpoint) — yol + zikzak jersey bariyerler, kapalı bom bariyer (kırmızı-beyaz), camlı nöbet kulübesi, gözetleme kulesi, kum torbası makineli mevzi, STOP tabelası, concertina tel, durmuş jip ve nöbetçi askerler.",
+  "category": "Modern Warfare",
+  "tags": [
+   "mekan",
+   "sahne",
+   "checkpoint",
+   "kontrol noktası",
+   "askeri",
+   "low-poly"
+  ],
+  "cover": "covers/checkpoint.png",
+  "hidden": true
+ },
+ {
+  "id": "chinook",
+  "name": "Chinook",
+  "description": "Detaylı low-poly çift tandem rotorlu nakliye helikopteri (CH-47 Chinook tarzı) — uzun kutu gövde, kokpit camları, arka yükleme rampası, ön + arka 3-paletli DÖNEN rotorlar (ters yönde, farklı yükseklik), arka motor hump'ı + egzozlar, yan sponsonlar ve 4 tekerlek.",
+  "category": "Modern Warfare",
+  "tags": [
+   "hava",
+   "askeri",
+   "helikopter",
+   "nakliye",
+   "tandem",
+   "animasyon",
+   "low-poly"
+  ],
+  "cover": "covers/chinook.png",
+  "hidden": true
+ },
+ {
+  "id": "cikarma-gemisi",
+  "name": "Landing Ship",
+  "description": "Detaylı low-poly çıkarma gemisi / LHD (TCG Anadolu tarzı) — düz uçuş güvertesi + pruvada kayak rampası (ski-jump), helikopter iniş daireleri, güvertede park etmiş mini helikopterler, starboard ada + dönen radar, kıçta havuz güvertesi rampası ve CIWS.",
+  "category": "Modern Warfare",
+  "tags": [
+   "deniz",
+   "askeri",
+   "gemi",
+   "çıkarma",
+   "lhd",
+   "low-poly"
+  ],
+  "cover": "covers/cikarma-gemisi.png",
+  "hidden": true
+ },
+ {
+  "id": "deniz-feneri",
+  "name": "Lighthouse",
+  "description": "Low-poly deniz feneri — kayalık adacık + çevresinde deniz ve köpük halkası, kırmızı-beyaz şeritli sivrilen kule (kapı + pencereler), korkuluklu galeri, çerçeveli camlı fener odası + ışık, kırmızı kubbe ve dönen ışık huzmesi.",
+  "category": "Vacation",
+  "tags": [
+   "tatil",
+   "deniz",
+   "deniz feneri",
+   "animasyon",
+   "low-poly"
+  ],
+  "cover": "covers/deniz-feneri.png",
+  "hidden": true
+ },
+ {
+  "id": "denizalti",
+  "name": "Submarine",
+  "description": "Detaylı low-poly denizaltı — damla biçimli gövde (yuvarlak pruva + daralan kıç), yelken (conning tower) + dalış kanatçıkları + periskop/direkler, kıçta dümen ve yatay stabilizeler, dönen bronz pervane.",
+  "category": "Modern Warfare",
+  "tags": [
+   "deniz",
+   "askeri",
+   "denizaltı",
+   "animasyon",
+   "low-poly"
+  ],
+  "cover": "covers/denizalti.png",
+  "hidden": true
+ },
+ {
+  "id": "dogalgaz-kuyusu",
+  "name": "Gas Wellhead",
+  "description": "Detaylı low-poly doğalgaz kuyubaşı (Christmas tree) — beton platform, kasing flanşı, flanşlı vana kulesi, kırmızı ana/yan vanalar + el çarkları, manometreler, tepe kapağı, akış hattı + sarı kısma vanası (choke) ve güvenlik korkuluğu.",
+  "category": "Energy",
+  "tags": [
+   "enerji",
+   "doğalgaz",
+   "kuyu",
+   "wellhead",
+   "low-poly"
+  ],
+  "cover": "covers/dogalgaz-kuyusu.png",
+  "hidden": true
+ },
+ {
+  "id": "dogalgaz-tesisi",
+  "name": "LNG Plant",
+  "description": "Low-poly doğalgaz işleme / LNG tesisi — ayaklı küresel LNG depolama tankları, platformlu damıtma kuleleri, alevli flare bacası, boru rafı (renkli borular) ve kompresör/kontrol binası.",
+  "category": "Energy",
+  "tags": [
+   "enerji",
+   "doğalgaz",
+   "lng",
+   "tesis",
+   "animasyon",
+   "low-poly"
+  ],
+  "cover": "covers/dogalgaz-tesisi.png",
+  "hidden": true
+ },
+ {
+  "id": "drone",
+  "name": "Quad Drone",
+  "description": "Detaylı low-poly quadcopter drone — 4 dönen pervane (çapraz çiftler ters yönde), motorlar, ön kamera gimbali + lens, GPS, antenler, batarya ve iniş ayakları. Ön taraf turuncu accent ile işaretli.",
+  "category": "Civilian",
+  "tags": [
+   "araç",
+   "drone",
+   "quadcopter",
+   "animasyon",
+   "low-poly"
+  ],
+  "cover": "covers/drone.png",
+  "hidden": true
+ },
+ {
+  "id": "ev",
+  "name": "House",
+  "description": "Piramit çatılı sevimli ev — kapı, pencereler ve baca dahil.",
+  "category": "Civilian",
+  "tags": [
+   "yapı",
+   "ev",
+   "low-poly"
+  ],
+  "cover": "covers/ev.png",
+  "hidden": true
+ },
+ {
+  "id": "firkateyn",
+  "name": "Frigate",
+  "description": "113 m modern stealth fırkateyn (TCG İstanbul / İ sınıfı) — kesitten loft edilmiş dar tekne, öne eğik baş bodoslama, su hattının üstünde kırım hattından itibaren İÇE eğimli düz bordalar (tumblehome) ve aynı açıda içe eğimli pahlı üst yapı, baş güvertede 76 mm top kulesi ve 16 hücreli dikey fırlatma sistemi, orta gövdede eğik gemisavar kapsülleri ile RHIB'ler, kapalı (entegre) direkte DÖNEN arama radarı, kıça yatık ızgaralı baca, hangar çatısında yakın hava savunma topu, arkada helikopter daireli uçuş güvertesi. Su hattında baş dalgası ve dümen suyu köpüğü. Gövde rengi ve güverte rengi ayrı ayrı değişir; top kulesi hedefe döner.",
+  "category": "Modern Warfare",
+  "tags": [
+   "askeri",
+   "gemi",
+   "firkateyn",
+   "fırkateyn",
+   "savaş gemisi",
+   "deniz kuvvetleri",
+   "stealth",
+   "low-poly"
+  ],
+  "cover": "covers/firkateyn.png"
+ },
+ {
+  "id": "fuze-sahasi",
+  "name": "Missile Site",
+  "description": "Low-poly füze fırlatma sahası / silo dioraması — açık silo (kayan blast kapağı + rayları) ve dışarı çıkan dik balistik füze, 4 yıldırım koruma kulesi + tepeden geçen catenary teller, kalkış kontrol bunkeri + anten, yakıt tankları, beton platform ve güvenlik duvarı.",
+  "category": "Modern Warfare",
+  "tags": [
+   "mekan",
+   "sahne",
+   "füze",
+   "silo",
+   "askeri",
+   "low-poly"
+  ],
+  "cover": "covers/fuze-sahasi.png",
+  "hidden": true
+ },
+ {
+  "id": "fuze",
+  "name": "Missile",
+  "description": "Detaylı low-poly füze — gövde, kırmızı burun konisi, boattail ve nozül, detay bantları, guidance halkası, 4 kuyruk kanadı ve 4 ön kanatçık.",
+  "category": "Modern Warfare",
+  "tags": [
+   "araç",
+   "askeri",
+   "füze",
+   "low-poly"
+  ],
+  "cover": "covers/fuze.png",
+  "hidden": true
+ },
+ {
+  "id": "gunes-paneli",
+  "name": "Solar Panel",
+  "description": "Detaylı low-poly tekli güneş paneli — tek direk + tork borusu üzerinde eğimli PV modül, koyu mavi cam yüzey ve 6x4 hücre ızgarası, alüminyum çerçeve.",
+  "category": "Energy",
+  "tags": [
+   "enerji",
+   "güneş",
+   "panel",
+   "pv",
+   "low-poly"
+  ],
+  "cover": "covers/gunes-paneli.png",
+  "hidden": true
+ },
+ {
+  "id": "gunes-tarlasi",
+  "name": "Solar Farm",
+  "description": "Low-poly güneş enerjisi santrali / GES — sıra sıra eğimli PV panel dizileri (modül ayrım çizgileri), inverter/trafo istasyonu, çevre çiti ve erişim yolu.",
+  "category": "Energy",
+  "tags": [
+   "enerji",
+   "güneş",
+   "ges",
+   "santral",
+   "low-poly"
+  ],
+  "cover": "covers/gunes-tarlasi.png",
+  "hidden": true
+ },
+ {
+  "id": "hangar",
+  "name": "Hangar",
+  "description": "Low-poly uçak hangarı (quonset tarzı kemerli) — beton zemin + sarı taksi çizgileri, faceted kemer çatı, yarım daire arka duvar, tavan aydınlatmaları, açık ön giriş; içeride yakıt varilleri, çekici traktör ve bakım merdiveni. Araçların/uçakların sahnesi.",
+  "category": "Modern Warfare",
+  "tags": [
+   "mekan",
+   "sahne",
+   "hangar",
+   "askeri",
+   "low-poly"
+  ],
+  "cover": "covers/hangar.png",
+  "hidden": true
+ },
+ {
+  "id": "hava-savunma",
+  "name": "SAM System",
+  "description": "Modern taktiksel hava savunma sistemi (S-400 tarzı TEL) — 8x8 ağır kamyon şasisi, zırhlı kabin, dik konuma kalkmış 4 fırlatma tüpü (2x2), erektör çerçevesi + hidrolik kollar, stabilizatör ayakları, farlar, egzoz ve anten.",
+  "category": "Modern Warfare",
+  "tags": [
+   "araç",
+   "askeri",
+   "füze",
+   "hava savunma",
+   "s-400",
+   "low-poly"
+  ],
+  "cover": "covers/hava-savunma.png",
+  "hidden": true
+ },
+ {
+  "id": "hava-ussu",
+  "name": "Air Base",
+  "description": "Low-poly hava üssü / havalimanı dioraması — çimen zemin, pist (orta çizgi + eşik piyano tuşları + kenar çizgileri), sarı çizgili taksi yolu, apron + park daireleri, yüksek camlı kontrol kulesi + anten, rüzgâr tulumu, pist kenar ışıkları ve apronda park etmiş mini jetler.",
+  "category": "Civilian",
+  "tags": [
+   "mekan",
+   "sahne",
+   "havalimanı",
+   "hava üssü",
+   "pist",
+   "low-poly"
+  ],
+  "cover": "covers/hava-ussu.png",
+  "hidden": true
+ },
+ {
+  "id": "helikopter",
+  "name": "Helicopter",
+  "description": "Sivil çok amaçlı helikopter (H145/Bell 429 sınıfı) — yerden tavana dolanan geniş kokpit camı ve çene camları, kayar yan kapı, kızaklı iniş takımı, beş palli DÖNEN ana rotor ve dönen kuyruk rotoru, yatay stabilizatör, motor güvertesi hava girişleri ve egzozlar. Gövde rengi değişir; uçarken burnu aşağı eğilir, tırmanırken yukarı kalkar, virajda içeri yatar.",
+  "category": "Transportation",
+  "tags": [
+   "ulaşım",
+   "hava",
+   "helikopter",
+   "sivil",
+   "animasyon",
+   "low-poly"
+  ],
+  "cover": "covers/helikopter.png"
+ },
+ {
+  "id": "himars",
+  "name": "HIMARS",
+  "description": "Detaylı low-poly çok namlulu roketatar (HIMARS tarzı) — 6x6 zırhlı kamyon, kabin, yukarı-geriye kalkmış fırlatma pod'u (2x3 roket tüpü ağzı), döner tabla, hidrolik kalkış kolları, farlar ve aynalar.",
+  "category": "Modern Warfare",
+  "tags": [
+   "araç",
+   "askeri",
+   "roketatar",
+   "mlrs",
+   "low-poly"
+  ],
+  "cover": "covers/himars.png",
+  "hidden": true
+ },
+ {
+  "id": "kadirga",
+  "name": "War Galley",
+  "description": "42 m 16. yüzyıl Akdeniz kürekli savaş gemisi (Lepanto sınıfı kadırga) — kesitten loft edilmiş çok narin ve alçak tekne, su hattının hemen üstünde öne uzanan mahmuz, bordadan çıkan kürek çemberi (apostis) ve her bordada 8 iri kürek, corsia ile 16 kürekçi bankı, küpeşte boyunca kalkan sırası, pruvada rambade ve baş topu ile prangılar, tek direkte latin yelken, arkada tenteli kıç köşkü ve fener. Kürekler geminin kat ettiği yola bağlı olarak birlikte çekiyor, durunca duruyorlar. Tekne rengi ve kalkan rengi ayrı ayrı değişir; baş topu hedefe döner.",
+  "category": "Historical Warfare",
+  "tags": [
+   "tarihi",
+   "gemi",
+   "kadirga",
+   "kadırga",
+   "galley",
+   "kürekli gemi",
+   "osmanlı",
+   "akdeniz",
+   "low-poly"
+  ],
+  "cover": "covers/kadirga.png"
+ },
+ {
+  "id": "kale",
+  "name": "Castle",
+  "description": "Ortaçağ kalesi — Harlech (1283-89) iç avlusunun planı: 45 x 56 m sur dikdörtgeni, çapı 10 m olan dört köşe burcu, çift tamburlu kapı kulesi, kemerli giriş, portkulis ve makuliye galerisi. Avluda Norman büyük kulesi oranında bir baş kule (donjon). Mazgallı korkuluklar, ok mazgalları, silme ve moloz taş dokusu. Üç bayrak direği: ana sancak baş kulede, iki tanesi kapı tamburlarında.",
+  "category": "Historical Warfare",
+  "tags": [
+   "tarihi",
+   "kale",
+   "sur",
+   "burç",
+   "kapı kulesi",
+   "low-poly"
+  ],
+  "cover": "covers/kale.png"
+ },
+ {
+  "id": "kamikaze-drone",
+  "name": "Kamikaze Drone",
+  "description": "Detaylı low-poly kamikaze drone / loitering munition (Shahed-136 tarzı) — üçgen delta kanat, merkez gövde sırtı, sivri savaş başlığı, arkada dönen itici pervane, kanat ucu dikey kanatçıkları, alt sensör ve anten. Havada uçar pozisyonda.",
+  "category": "Modern Warfare",
+  "tags": [
+   "hava",
+   "askeri",
+   "iha",
+   "kamikaze",
+   "loitering",
+   "animasyon",
+   "low-poly"
+  ],
+  "cover": "covers/kamikaze-drone.png",
+  "hidden": true
+ },
+ {
+  "id": "karargah-cadiri",
+  "name": "Command Tent",
+  "description": "17. yüzyıl Osmanlı otağı — iki direkli, oval planlı komuta çadırı. Ölçüler yayınlanmış iki örnekten: Wawel'deki 1683 Viyana ganimeti çadır (kanat yüksekliği 3,6 m, alt çevre 36 m, oval, iki direk) ve Dresden Türckische Cammer'in üç direkli çadırı (20 × 8 × 6 m). Plan 13,43 × 8,00 m, sırt 6,00 m. Dilimli saçak eteği, aplike şerit ve sarkıt deseni, açılıp yanlara bağlanmış kapı kanatları, girişte sayeban, çepeçevre gergi halatı ve kazık dizisi. Arka direkte alem, ön direğin tepesinde ana sancak; iki yan sancak direği girişin yanında.",
+  "category": "Historical Warfare",
+  "tags": [
+   "tarihi",
+   "çadır",
+   "otağ",
+   "karargâh",
+   "komuta",
+   "low-poly"
+  ],
+  "cover": "covers/karargah-cadiri.png"
+ },
+ {
+  "id": "karavan",
+  "name": "Camper Van",
+  "description": "Low-poly retro kamp minibüsü (VW-combi tarzı) — iki renkli gövde (turkuaz/beyaz), yuvarlak farlar + V amblem + tampon, bölünmüş ön cam, yan ve arka camlar, jantlı tekerler ve çatı portunda sörf tahtası. Tatil/plaj havası.",
+  "category": "Vacation",
+  "tags": [
+   "tatil",
+   "karavan",
+   "minibüs",
+   "yolculuk",
+   "araç",
+   "low-poly"
+  ],
+  "cover": "covers/karavan.png",
+  "hidden": true
+ },
+ {
+  "id": "kare-not",
+  "name": "Sticky Note",
+  "description": "Haritaya yapıştırılan kare not kâğıdı. Üzerine yazı ve görsel eklenebilir; kâğıdın rengi değiştirilebilir. Yazı ayarları yazı aracıyla aynıdır (yazı tipi, boyut, renk, kontur, gölge).",
+  "category": "Components",
+  "tags": [
+   "bileşen",
+   "not",
+   "kağıt",
+   "yazı",
+   "low-poly"
+  ],
+  "cover": "covers/kare-not.png"
+ },
+ {
+  "id": "kent-enkazi",
+  "name": "City Ruins",
+  "description": "Low-poly kent savaş alanı / enkaz dioraması — yıkık binalar (kırık jagged duvarlar, pencere boşlukları, açıkta kat döşemeleri, fırlamış demirler), moloz yığınları, yanmış araç enkazı, sokak barikatı (kum torbası + beton blok), krater, eğik lamba direği ve yükselen duman.",
+  "category": "Civilian",
+  "tags": [
+   "mekan",
+   "sahne",
+   "enkaz",
+   "savaş alanı",
+   "kent",
+   "low-poly"
+  ],
+  "cover": "covers/kent-enkazi.png",
+  "hidden": true
+ },
+ {
+  "id": "kisa-menzilli-hss",
+  "name": "Short-Range AD",
+  "description": "Detaylı low-poly kısa menzilli hava savunma sistemi (Pantsir/Korkut tarzı) — 8x8 araç + kabin, merkez taret: iki yanda 6'şar füze tüpü pod'u (yukarı açılı), iki çift namlulu otomatik top, önde sabit faz dizinli takip radarı ve üstte dönen arama radarı.",
+  "category": "Modern Warfare",
+  "tags": [
+   "araç",
+   "askeri",
+   "hava savunma",
+   "top",
+   "füze",
+   "animasyon",
+   "low-poly"
+  ],
+  "cover": "covers/kisa-menzilli-hss.png",
+  "hidden": true
+ },
+ {
+  "id": "kmo-obus",
+  "name": "SP Howitzer",
+  "description": "Detaylı low-poly kundağı motorlu obüs (Fırtına/PzH2000 tarzı) — paletli şasi (7 yol tekerleği), büyük taret, çok uzun 155mm namlu (duman tahliyeli + namlu freni), arka mühimmat sandığı, komutan kulesi + makineli, sis fırlatıcıları ve anten.",
+  "category": "Modern Warfare",
+  "tags": [
+   "araç",
+   "askeri",
+   "topçu",
+   "obüs",
+   "paletli",
+   "low-poly"
+  ],
+  "cover": "covers/kmo-obus.png",
+  "hidden": true
+ },
+ {
+  "id": "kocbasi",
+  "name": "Battering Ram",
+  "description": "Çatılı, tekerlekli kuşatma koçu — testudo arietaria, ortaçağda \"chat\"/\"cat\". Post kaplı üçgen koruma çatısı, dört meşe dikmeli açık iskelet, dört ağır kuşatma tekerleği ve iki boyunduruktan dört halatla asılı 6.80 m'lik dişbudak kütük. Kütük çatının önünden 3.00 m çıkıyor; ucunda boynuzlu, ucu küt demir koç başı. Ateş ettiğinde mürettebat kütüğü öne savuruyor, kapıya çarpıyor, makine geri sarsılıyor ve kütük sönümlü salınımlarla yerine oturuyor.",
+  "category": "Historical Warfare",
+  "tags": [
+   "tarihi",
+   "kusatma",
+   "kocbasi",
+   "battering-ram",
+   "kusatma-makinesi",
+   "ahsap",
+   "low-poly"
+  ],
+  "cover": "covers/kocbasi.png"
+ },
+ {
+  "id": "konum-markeri",
+  "name": "Location Marker",
+  "description": "Klasik harita konum işareti. Ucu yerde, tepesi top gibi şişkin damla gövde; ortasında delik. Rengi değiştirilebilir, gelirken tepeden düşüp saplanabilir.",
+  "category": "Components",
+  "tags": [
+   "bileşen",
+   "marker",
+   "konum",
+   "işaret",
+   "pin",
+   "low-poly"
+  ],
+  "cover": "covers/konum-markeri.png"
+ },
+ {
+  "id": "korvet",
+  "name": "Corvette",
+  "description": "Detaylı low-poly modern stealth korvet (MİLGEM tarzı) — sivri pruva + çift renk gövde, köşeli/açılı üst yapı, piramidal kapalı direk + dönen radar, ana top, küçük VLS, gemisavar füze kanisterleri, helikopter pisti ve CIWS.",
+  "category": "Modern Warfare",
+  "tags": [
+   "deniz",
+   "askeri",
+   "gemi",
+   "korvet",
+   "stealth",
+   "low-poly"
+  ],
+  "cover": "covers/korvet.png",
+  "hidden": true
+ },
+ {
+  "id": "kum-kalesi",
+  "name": "Sand Castle",
+  "description": "Low-poly plaj kum kalesi — mazgallı (battlement) köşe kuleleri ve surlar, kemerli kapı, daha yüksek orta kale + üçgen bayrak, etrafında su hendeği (moat) ve köprü; kum apron üzerinde.",
+  "category": "Vacation",
+  "tags": [
+   "tatil",
+   "plaj",
+   "yaz",
+   "kum kalesi",
+   "low-poly"
+  ],
+  "cover": "covers/kum-kalesi.png",
+  "hidden": true
+ },
+ {
+  "id": "kusatma-topu",
+  "name": "Siege Cannon",
+  "description": "Geç ortaçağ bombardı, tekerlekli sur/sahra kundağında: Mons Meg (1449) ölçüleriyle 4.06 m boy, 510 mm kalibre, arkada vidalı barut haznesi, altı bilezikle kuşaklanmış kalın kısa namlu. Namlu iki muyludan meşe yanaklara oturuyor, kundak 1.44 m çapında iki parmaklıklı tekerlek üzerinde duruyor ve uzun kuyruğu yere basıyor. Ateş ettiğinde ağız alevi patlıyor, namlu muylusunun üzerinde kalkıyor, top tekerleklerinde geri kaçıyor, duman açılıyor ve gülle hedefe gidiyor.",
+  "category": "Historical Warfare",
+  "tags": [
+   "tarihi",
+   "kusatma",
+   "top",
+   "bombard",
+   "kusatma-topu",
+   "topcu",
+   "tekerlekli",
+   "ahsap",
+   "low-poly"
+  ],
+  "cover": "covers/kusatma-topu.png"
+ },
+ {
+  "id": "liman",
+  "name": "Naval Port",
+  "description": "Low-poly liman / deniz üssü dioraması — deniz + beton rıhtım, 2 iskele, su üstüne uzanan 2 liman vinci (jib + kanca), yanaşmış 2 gemi, antrepolar, renkli konteyner istifi, babalar (bollard), dalgakıran kayaları ve çizgili fener.",
+  "category": "Civilian",
+  "tags": [
+   "mekan",
+   "sahne",
+   "liman",
+   "deniz üssü",
+   "low-poly"
+  ],
+  "cover": "covers/liman.png",
+  "hidden": true
+ },
+ {
+  "id": "mancinik",
+  "name": "Trebuchet",
+  "description": "Karşı ağırlıklı trebuchet — 13.-15. yüzyıl kuşatma makinesi. Villard de Honnecourt'un 12.50 x 8.50 m taban çerçevesi, iki A sehpası ve aralarındaki mil, 11.75 m'lik dişbudak kiriş (4:1 uzun/kısa kol), kısa uçta mafsallı karşı ağırlık sandığı, uzun uçta serbest bırakma kancası ve sapan. Kalkık kol 18 m'ye erişiyor. Ateş ettiğinde kol savruluyor, sapan keseyi oluk boyunca sürükleyip mermiyi bırakıyor, sonra vinç kolu yeniden geriyor.",
+  "category": "Historical Warfare",
+  "tags": [
+   "tarihi",
+   "kusatma",
+   "mancinik",
+   "trebuchet",
+   "kusatma-makinesi",
+   "ahsap",
+   "low-poly"
+  ],
+  "cover": "covers/mancinik.png"
+ },
+ {
+  "id": "masa-bayragi",
+  "name": "Desk Flag Set",
+  "description": "Masa bayrağı seti — ahşap kaide, metal direkler ve bayrak bezleri. Bayrak sayısı 1, 2 veya 3 seçilebilir; her direğin bayrağı ülke listesinden seçilir ya da kendi görselin yüklenir.",
+  "category": "Components",
+  "tags": [
+   "bileşen",
+   "bayrak",
+   "masa bayrağı",
+   "ofis",
+   "low-poly"
+  ],
+  "cover": "covers/masa-bayragi.png"
+ },
+ {
+  "id": "mizrakli-piyade",
+  "name": "Spearman",
+  "description": "Yürüyüş hâlindeki klasik Yunan hopliti (1.705 m) — Bomarzo aspisinin ölçüsünde 0.82 m'lik kâse kalkan, 2.50 m'lik dory (denge noktasından kavranmış, Chigi vazosunun üstten tutuşu), Korint miğferi ve sorguç, keten linothorax, pteruges, bronz baldır zırhı ve sandalet. Yürüyüş döngüsü kat edilen yola bağlı: adım uzunluğu bacak zincirinden kaymasız çözülüyor, ayak zemine hiç girmiyor, figür durunca ayakta bekliyor. Kalkan/tunik ile bronz teçhizat rengi ayrı ayrı değişir.",
+  "category": "Historical Warfare",
+  "tags": [
+   "tarihi",
+   "hoplit",
+   "mızraklı",
+   "figür",
+   "insan",
+   "low-poly"
+  ],
+  "cover": "covers/mizrakli-piyade.png"
+ },
+ {
+  "id": "modern-havan",
+  "name": "Mortar Team",
+  "description": "Detaylı low-poly modern havan (mortar) — taban plakası, yukarı açılı namlu + namlu ağzı, A-tipi bipod, yükseliş/yön el çarkları, dijital atış kontrol/nişangah ünitesi (ekranlı) ve yanında havan mermileri.",
+  "category": "Modern Warfare",
+  "tags": [
+   "silah",
+   "askeri",
+   "havan",
+   "mortar",
+   "low-poly"
+  ],
+  "cover": "covers/modern-havan.png",
+  "hidden": true
+ },
+ {
+  "id": "motokaravan",
+  "name": "Motorhome",
+  "description": "7 m alkovlu motokaravan — kabinin üstüne taşan yatak bölmesi (alkov), tam boy yaşam kutusu, iki yanda büyük ve küçük pencere, camlı giriş kapısı, zemin altı bagaj kapakları ve boydan boya tente kutusu. Çatıda iki güneş paneli ile iki havalandırma bacası, arkada çatıya çıkan merdiven. Gövde rengi değişir (kabin ve alt etek koyu kalır), sürüşte dört tekerlek de yuvarlanır, dönüşte ön tekerlekler direksiyon kırar.",
+  "category": "Transportation",
+  "tags": [
+   "ulaşım",
+   "araç",
+   "motokaravan",
+   "karavan",
+   "tatil",
+   "kamp",
+   "low-poly"
+  ],
+  "cover": "covers/motokaravan.png"
+ },
+ {
+  "id": "motosiklet",
+  "name": "Motorcycle",
+  "description": "Sokak motosikleti — yuvarlak far, açıkta motor bloğu, döküm jant. Gövde rengi değişir, sürüşte tekerlekler yuvarlanır, dönüşte direksiyon kırar ve motosiklet viraja yatar.",
+  "category": "Transportation",
+  "tags": [
+   "ulaşım",
+   "araç",
+   "motosiklet",
+   "low-poly"
+  ],
+  "cover": "covers/motosiklet.png"
+ },
+ {
+  "id": "nukleer-santral",
+  "name": "Nuclear Plant",
+  "description": "Low-poly nükleer santral dioraması — 2 hiperboloid soğutma kulesi (tepeden buhar), kubbeli reaktör binası + yardımcı bina, uzun türbin salonu, enerji nakil direği + hatlar ve soğutma suyu kanalı.",
+  "category": "Energy",
+  "tags": [
+   "mekan",
+   "enerji",
+   "nükleer",
+   "santral",
+   "low-poly"
+  ],
+  "cover": "covers/nukleer-santral.png",
+  "hidden": true
+ },
+ {
+  "id": "ok-tabelasi",
+  "name": "Arrow Sign",
+  "description": "Direğe çakılı ok biçimli yön tabelası. Üzerine yazı ve görsel eklenebilir; levhanın rengi değiştirilebilir. Yazı iki yüzde de düz okunur. Yazı ayarları yazı aracıyla aynıdır (yazı tipi, boyut, ağırlık, renk).",
+  "category": "Components",
+  "tags": [
+   "bileşen",
+   "tabela",
+   "ok",
+   "yön",
+   "işaret",
+   "yazı",
+   "low-poly"
+  ],
+  "cover": "covers/ok-tabelasi.png"
+ },
+ {
+  "id": "ok",
+  "name": "Arrow",
+  "description": "Yere yatık, kalınlığı olan 3B yön oku. Rengi değiştirilebilir; yönü objenin kendi dönüş ayarıyla verilir.",
+  "category": "Components",
+  "tags": [
+   "bileşen",
+   "ok",
+   "yön",
+   "işaret",
+   "low-poly"
+  ],
+  "cover": "covers/ok.png"
+ },
+ {
+  "id": "okcu",
+  "name": "Archer",
+  "description": "Tam gergin yayla nişan almış İngiliz uzun yaylı okçusu (1.710 m) — Mary Rose batığından ölçülen 1.976 m'lik tek parça porsuk uzun yay (diri odun sırtı, öz odun karnı; sap kesiti 35×33 mm, çekiş kuvveti 65-175 lb), 0.780 m'lik bodkin uçlu ok, 0.712 m'lik çekiş, 24 delikli deri ara diskli keten okluk, deri bilek koruması, kapitone jak, demir kaburgalı deri takke ve kemerde balta. Yürüyüş döngüsü kat edilen yola bağlı: adım uzunluğu bacak zincirinden kaymasız çözülüyor, ayak zemine hiç girmiyor, figür durunca ayakta bekliyor. Jak ile deri teçhizat rengi ayrı ayrı değişir.",
+  "category": "Historical Warfare",
+  "tags": [
+   "tarihi",
+   "okçu",
+   "uzun yay",
+   "figür",
+   "insan",
+   "low-poly"
+  ],
+  "cover": "covers/okcu.png"
+ },
+ {
+  "id": "otobus",
+  "name": "Coach Bus",
+  "description": "Modern 12 m alçak tabanlı şehir otobüsü — boydan boya cam bandı, iki camlı kapı, sarmalayan ön cam, ışıklı güzergâh tabelası ve çatıda klima ünitesi. Arka aksta ikiz teker. Gövde rengi değişir, sürüşte altı tekerlek de yuvarlanır, dönüşte ön tekerlekler direksiyon kırar.",
+  "category": "Transportation",
+  "tags": [
+   "ulaşım",
+   "araç",
+   "otobüs",
+   "toplu taşıma",
+   "low-poly"
+  ],
+  "cover": "covers/otobus.png"
+ },
+ {
+  "id": "otomobil",
+  "name": "Sedan",
+  "description": "Fiat Egea gövdeli sedan — kesitten loft edilmiş kavisli kasa, dik ön cam, uzun düz tavan, kaput pres çizgileri ve kapı ayrım hatları. Gövde rengi değişir, sürüşte dört tekerlek de yuvarlanır, dönüşte ön tekerlekler direksiyon kırar.",
+  "category": "Transportation",
+  "tags": [
+   "ulaşım",
+   "araç",
+   "otomobil",
+   "low-poly"
+  ],
+  "cover": "covers/otomobil.png"
+ },
+ {
+  "id": "palmiye",
+  "name": "Palm Tree",
+  "description": "Low-poly tekli hindistan cevizi palmiyesi — hafif eğik segmentli gövde, iki sıra sarkan tüylü yaprak (alt uzun, üst dik) ve gövde tepesinde hindistan cevizi salkımı. Zeminsiz, tek obje.",
+  "category": "Vacation",
+  "tags": [
+   "tatil",
+   "plaj",
+   "yaz",
+   "palmiye",
+   "ağaç",
+   "low-poly"
+  ],
+  "cover": "covers/palmiye.png",
+  "hidden": true
+ },
+ {
+  "id": "parasutlu-asker",
+  "name": "Paratrooper",
+  "description": "Detaylı low-poly paraşütlü asker — açık kubbe paraşüt (apeks bacası), 12 askı ipi + risalar, altında asılı duran asker (kask, yelek, yedek paraşüt, asılı bacaklar/kollar, postallar). Havada süzülür pozisyonda.",
+  "category": "Modern Warfare",
+  "tags": [
+   "figür",
+   "askeri",
+   "asker",
+   "paraşüt",
+   "hava",
+   "low-poly"
+  ],
+  "cover": "covers/parasutlu-asker.png",
+  "hidden": true
+ },
+ {
+  "id": "petrol-pompasi",
+  "name": "Oil Pumpjack",
+  "description": "Detaylı low-poly atbaşı petrol pompası (pumpjack) — A-direk (Samson), salınan walking beam + atbaşı (nod animasyonu), tam dönen krank + karşı ağırlıklar, redüktör/motor, kuyubaşı (polisaj kolu + kırmızı vana).",
+  "category": "Energy",
+  "tags": [
+   "enerji",
+   "petrol",
+   "pompa",
+   "pumpjack",
+   "animasyon",
+   "low-poly"
+  ],
+  "cover": "covers/petrol-pompasi.png",
+  "hidden": true
+ },
+ {
+  "id": "petrol-sahasi",
+  "name": "Oil Field",
+  "description": "Low-poly petrol sahası — farklı hızlarda çalışan 3 atbaşı pompa (salınan beam + dönen krank), depolama tankları, kafes sondaj kulesi (derrick), alevli flare bacası ve bağlantı boruları.",
+  "category": "Energy",
+  "tags": [
+   "enerji",
+   "petrol",
+   "saha",
+   "rafineri",
+   "animasyon",
+   "low-poly"
+  ],
+  "cover": "covers/petrol-sahasi.png",
+  "hidden": true
+ },
+ {
+  "id": "piyade",
+  "name": "Soldier",
+  "description": "Yürüyüş hâlindeki modern piyade eri (1.80 m) — kesitten loft edilmiş gövde, uyluk, baldır, kol ve kask; plaka taşıyıcı yelek, göğüs fişeklikleri, sırt çantası, dizlik, postal ve göğsün ÖNÜNDE namlusu aşağı taşınan tüfek (silah ve kollar gövdeyle kesişmiyor; yürüyüş çevrimi boyunca ölçüldü). Yürüyüş döngüsü kat edilen yola bağlı: adım uzunluğu bacak zincirinden kaymasız (no-slip) çözülüyor, ayak zemine hiç girmiyor, figür durunca ayakta bekliyor. Üniforma ve teçhizat rengi ayrı ayrı değişir.",
+  "category": "Modern Warfare",
+  "tags": [
+   "askeri",
+   "asker",
+   "piyade",
+   "figür",
+   "insan",
+   "low-poly"
+  ],
+  "cover": "covers/piyade.png"
+ },
+ {
+  "id": "plaj-topu",
+  "name": "Beach Ball",
+  "description": "Low-poly tekli plaj topu — 6 renkli dilim (gore) ile klasik plaj topu deseni. Zeminsiz, tek obje.",
+  "category": "Vacation",
+  "tags": [
+   "tatil",
+   "plaj",
+   "yaz",
+   "top",
+   "low-poly"
+  ],
+  "cover": "covers/plaj-topu.png",
+  "hidden": true
+ },
+ {
+  "id": "radar-araci",
+  "name": "Radar Vehicle",
+  "description": "Detaylı low-poly mobil radar aracı (S-400 91N6 'Big Bird' tarzı) — 8x8 kamyon + kabin, döner tabla üzerinde geriye yatık DÖNEN büyük faz dizinli radar paneli (dizin yüzeyi + ızgara), destek kolları ve stabilizatör ayakları.",
+  "category": "Modern Warfare",
+  "tags": [
+   "araç",
+   "askeri",
+   "radar",
+   "hava savunma",
+   "animasyon",
+   "low-poly"
+  ],
+  "cover": "covers/radar-araci.png",
+  "hidden": true
+ },
+ {
+  "id": "raptiye",
+  "name": "Push Pin",
+  "description": "Haritaya saplanan iğneli raptiye — metal iğne ve bilezik, aşağı doğru incelen gövde ve üstte kubbe başlık. Gövde ile başlık renk alır. Ucu tabanda durur, yani konuma gerçekten saplanmış görünür.",
+  "category": "Components",
+  "tags": [
+   "bileşen",
+   "raptiye",
+   "işaret",
+   "pin",
+   "low-poly"
+  ],
+  "cover": "covers/raptiye.png"
+ },
+ {
+  "id": "roketatar",
+  "name": "Rocket Artillery",
+  "description": "M270 MLRS — paletli çoklu roketatar. Uzatılmış Bradley şasi, öne kaydırılmış zırhlı kabin, altı çift yol tekeri, yan etek zırhı ve arkada 12 tüplük iki roket kapsülünü taşıyan döner lançer kafesi. Gövde ve kapsül rengi ayrı ayrı değişir, sürüşte palet ve tahrik çarkları yuvarlanır.",
+  "category": "Modern Warfare",
+  "tags": [
+   "askeri",
+   "araç",
+   "paletli",
+   "topçu",
+   "roketatar",
+   "low-poly"
+  ],
+  "cover": "covers/roketatar.png"
+ },
+ {
+  "id": "ruzgar-ciftligi",
+  "name": "Wind Farm",
+  "description": "Low-poly rüzgâr çiftliği — yeşil tepelik arazide farklı boy ve fazlarda 8 dönen rüzgâr türbini (her biri 3 kanatlı, bağımsız döner) ve kıvrımlı servis yolu.",
+  "category": "Energy",
+  "tags": [
+   "enerji",
+   "rüzgâr",
+   "çiftlik",
+   "animasyon",
+   "low-poly"
+  ],
+  "cover": "covers/ruzgar-ciftligi.png",
+  "hidden": true
+ },
+ {
+  "id": "ruzgar-turbini",
+  "name": "Wind Turbine",
+  "description": "Detaylı low-poly tekli rüzgâr türbini — konik kule + temel + kapı, nacelle, burun konili göbek ve dönen 3 daralan kanat (yatay eksende döner).",
+  "category": "Energy",
+  "tags": [
+   "enerji",
+   "rüzgâr",
+   "türbin",
+   "animasyon",
+   "low-poly"
+  ],
+  "cover": "covers/ruzgar-turbini.png",
+  "hidden": true
+ },
+ {
+  "id": "sabit-kanat-iha",
+  "name": "Fixed-Wing UAV",
+  "description": "Detaylı low-poly sabit kanat İHA (Bayraktar TB2 tarzı) — slim gövde + burun SATCOM tümseği, EO/IR sensör topu, uzun düz kanatlar, inverted-V kuyruk, arkada dönen itici pervane, kanat altı akıllı mühimmatlar (MAM-L) ve iniş takımı.",
+  "category": "Modern Warfare",
+  "tags": [
+   "hava",
+   "askeri",
+   "iha",
+   "drone",
+   "animasyon",
+   "low-poly"
+  ],
+  "cover": "covers/sabit-kanat-iha.png",
+  "hidden": true
+ },
+ {
+  "id": "saldiri-duzeni",
+  "name": "Assault Formation",
+  "description": "Low-poly hücum mangası — ok-ucu/serpme hatta yayılmış askerler; öne eğik ilerleyen ve diz çökmüş ateş eden pozlarda, hücum yönüne bakar. Eklemli bacak/kol, kask, tüfek dahil.",
+  "category": "Modern Warfare",
+  "tags": [
+   "figür",
+   "askeri",
+   "asker",
+   "hücum",
+   "formasyon",
+   "low-poly"
+  ],
+  "cover": "covers/saldiri-duzeni.png",
+  "hidden": true
+ },
+ {
+  "id": "saldiri-helikopteri",
+  "name": "Attack Helicopter",
+  "description": "Detaylı low-poly saldırı helikopteri — tandem kanopi, burun sensör topları ve çene topu, yan motorlar, 4 paletli ana rotor, daralan kuyruk kolu, kuyruk rotoru, silah kanatları (roket kovanı + füzeler) ve iniş takımı.",
+  "category": "Modern Warfare",
+  "tags": [
+   "araç",
+   "askeri",
+   "helikopter",
+   "low-poly"
+  ],
+  "cover": "covers/saldiri-helikopteri.png",
+  "hidden": true
+ },
+ {
+  "id": "sandalye",
+  "name": "Chair",
+  "description": "Dört bacaklı, arkalık tahtalı klasik ahşap sandalye.",
+  "category": "Civilian",
+  "tags": [
+   "mobilya",
+   "sandalye",
+   "ahşap"
+  ],
+  "cover": "covers/sandalye.png",
+  "hidden": true
+ },
+ {
+  "id": "savas-gemisi",
+  "name": "Destroyer",
+  "description": "Detaylı low-poly muhrip — sivri pruva, çift renkli gövde (su hattı), ana top kulesi, dikey füze hücreleri (VLS), üst yapı + köprü + AEGIS radar panelleri, baca, dönen hava arama radarı, CIWS Phalanx, hangar ve helikopter pisti.",
+  "category": "Modern Warfare",
+  "tags": [
+   "araç",
+   "askeri",
+   "gemi",
+   "deniz",
+   "low-poly"
+  ],
+  "cover": "covers/savas-gemisi.png",
+  "hidden": true
+ },
+ {
+  "id": "savas-jeep",
+  "name": "Combat Jeep",
+  "description": "Detaylı low-poly askeri jeep — 7 yarıklı ön ızgara, yuvarlak farlar, açık gövde, çamurluklar, ön cam, koltuklar + direksiyon, pintle'a monteli makineli tüfek, yedek lastik, jerrikan, tampon, anten ve kaputta beyaz yıldız.",
+  "category": "Modern Warfare",
+  "tags": [
+   "araç",
+   "askeri",
+   "jeep",
+   "4x4",
+   "low-poly"
+  ],
+  "cover": "covers/savas-jeep.png",
+  "hidden": true
+ },
+ {
+  "id": "savas-ucagi",
+  "name": "Fighter Jet",
+  "description": "Detaylı low-poly savaş uçağı — süpürülmüş kanatlar, kabarık kanopi, dikey/yatay dümenler, hava alıkları, egzoz nozülü, kanat ucu füzeleri ve iniş takımı.",
+  "category": "Modern Warfare",
+  "tags": [
+   "araç",
+   "askeri",
+   "uçak",
+   "jet",
+   "low-poly"
+  ],
+  "cover": "covers/savas-ucagi.png",
+  "hidden": true
+ },
+ {
+  "id": "semsiye",
+  "name": "Beach Umbrella",
+  "description": "Low-poly tekli plaj şemsiyesi — kırmızı-beyaz çizgili dilimli kubbe, tırtıklı kenar, tepe topu ve direk. Zeminsiz, tek obje.",
+  "category": "Vacation",
+  "tags": [
+   "tatil",
+   "plaj",
+   "yaz",
+   "şemsiye",
+   "low-poly"
+  ],
+  "cover": "covers/semsiye.png",
+  "hidden": true
+ },
+ {
+  "id": "sezlong-semsiye",
+  "name": "Beach Set",
+  "description": "Low-poly plaj sahnesi — eğik çizgili plaj şemsiyesi, çizgili minderli ve havlulu şezlong, renkli plaj topu, arkada hareketli dalgalı deniz ve köpüklü kıyı, kum zemin.",
+  "category": "Vacation",
+  "tags": [
+   "tatil",
+   "plaj",
+   "yaz",
+   "şezlong",
+   "şemsiye",
+   "animasyon",
+   "low-poly"
+  ],
+  "cover": "covers/sezlong-semsiye.png",
+  "hidden": true
+ },
+ {
+  "id": "sezlong",
+  "name": "Sun Lounger",
+  "description": "Low-poly tekli plaj şezlongu — beyaz çerçeve, turkuaz-beyaz çizgili minder, eğik sırtlık ve üstünde turuncu havlu. Zeminsiz, tek obje.",
+  "category": "Vacation",
+  "tags": [
+   "tatil",
+   "plaj",
+   "yaz",
+   "şezlong",
+   "low-poly"
+  ],
+  "cover": "covers/sezlong.png",
+  "hidden": true
+ },
+ {
+  "id": "siha",
+  "name": "Combat Drone",
+  "description": "Silahlı insansız hava aracı (Bayraktar TB2 sınıfı) — ince ve uzun düz kanat (açıklık 12 m, en-boy oranı 16.2), iki kuyruk kirişinin üstünde ters V kuyruk, arkada iki palli itici pervane, burunda küresel elektro-optik taret ve kanat altında iki hafif akıllı mühimmat. İniş takımı sabit, havada toplanmaz. Gövde rengi değişir; pervane döner, dönüşte hafifçe viraja yatar, yerden yere geçişte kendi kalkış/tırmanış/süzülme/iniş profilini uçar.",
+  "category": "Modern Warfare",
+  "tags": [
+   "askeri",
+   "iha",
+   "siha",
+   "insansız hava aracı",
+   "drone",
+   "keşif",
+   "low-poly"
+  ],
+  "cover": "covers/siha.png"
+ },
+ {
+  "id": "soru-isareti",
+  "name": "Question Mark",
+  "description": "Dik duran 3B soru işareti; 2B siluete kalınlık verilmiş hali, kenarları pahlı. Rengi değiştirilebilir.",
+  "category": "Components",
+  "tags": [
+   "bileşen",
+   "soru",
+   "işaret",
+   "sembol",
+   "low-poly"
+  ],
+  "cover": "covers/soru-isareti.png"
+ },
+ {
+  "id": "sovalye",
+  "name": "Knight",
+  "description": "14.–15. yy Batı Avrupa plaka zırhlı süvarisi, savaş atı üstünde, mızrak koltuk altında yatay. At cidagosu 1.52 m (15 hh — Exeter kazı ölçümlerinin üst ucu); gövde, boyun, kafa, dört bacak ve binici kesitten loft. At örtüsü (caparison), chanfron, savaş eyeri, üzengi, mahmuz, kalkan, flama ve 3.44 m mızrak. Dört ayaklı yürüyüş kat edilen yola bağlı: adımlama (dört zamanlı yanal yürüyüş), adım uzunluğu bacak zincirinden çözülüyor, toynak zemine hiç girmiyor, figür durunca duruyor. Örtü/jüpon ve zırh rengi ayrı ayrı değişir.",
+  "category": "Historical Warfare",
+  "tags": [
+   "tarihi",
+   "şövalye",
+   "süvari",
+   "at",
+   "figür",
+   "low-poly"
+  ],
+  "cover": "covers/sovalye.png"
+ },
+ {
+  "id": "stealth-bombardiman",
+  "name": "Stealth Bomber",
+  "description": "Detaylı low-poly hayalet bombardıman uçağı (B-2/B-21 uçan kanat tarzı) — geniş süpürülmüş uçan kanat, testere-dişli firar kenarı, merkez gövde kabarıklığı, alçak kokpit, üstte gömülü hava alıkları ve arka egzoz yarıkları. Havada uçar pozisyonda.",
+  "category": "Modern Warfare",
+  "tags": [
+   "hava",
+   "askeri",
+   "bombardıman",
+   "stealth",
+   "uçan kanat",
+   "low-poly"
+  ],
+  "cover": "covers/stealth-bombardiman.png",
+  "hidden": true
+ },
+ {
+  "id": "taarruz-helikopteri",
+  "name": "Attack Helicopter",
+  "description": "İki kişilik taarruz helikopteri (AH-64 Apache sınıfı) — dar gövde ve basamaklı tandem kokpit (nişancı önde, pilot arkada ve yüksekte), burun altında dönen 30 mm çene tareti, burunda hedefleme ve gece görüş taretleri, dört istasyonlu kısa kanatlar (roket kovanı + dörtlü güdümlü mermi rampası), yanlarda iki motor naseli ve köşeli kızılötesi bastırmalı egzoz, uzun ince kuyruk konisi, yatay dengeleyici ve 55°'lik X düzeninde dönen kuyruk rotoru, dört palli DÖNEN ana rotor, mast üstü atış kontrol radomu, tekerlekli sabit iniş takımı. Gövde rengi ve mühimmat rengi ayrı ayrı değişir; geçişte pervaneler hızlanır, alçak süzülme irtifasına yükselir, burnu aşağı ilerler, viraja sert yatar, iner ve pervaneler durur.",
+  "category": "Modern Warfare",
+  "tags": [
+   "askeri",
+   "helikopter",
+   "taarruz helikopteri",
+   "saldırı helikopteri",
+   "hava kuvvetleri",
+   "animasyon",
+   "low-poly"
+  ],
+  "cover": "covers/taarruz-helikopteri.png"
+ },
+ {
+  "id": "tabur",
+  "name": "Battalion",
+  "description": "Low-poly asker taburu — 5x5 formasyonda 25 asker (kask, yelek, tüfek, sırt çantası, postallar) ve önde bayrak taşıyan asker. Hepsi öne bakacak şekilde dizili.",
+  "category": "Modern Warfare",
+  "tags": [
+   "figür",
+   "askeri",
+   "asker",
+   "tabur",
+   "formasyon",
+   "low-poly"
+  ],
+  "cover": "covers/tabur.png",
+  "hidden": true
+ },
+ {
+  "id": "taksi",
+  "name": "Taxi",
+  "description": "Taksi — Fiat Egea gövdeli sedanın taksi sürümü; sarı kaporta ve tavanda tepe lambası. Gövde rengi değişir, sürüşte dört tekerlek de yuvarlanır, dönüşte ön tekerlekler direksiyon kırar.",
+  "category": "Transportation",
+  "tags": [
+   "ulaşım",
+   "araç",
+   "taksi",
+   "low-poly"
+  ],
+  "cover": "covers/taksi.png"
+ },
+ {
+  "id": "tank",
+  "name": "Tank",
+  "description": "Leopard 2A7 siluetinde ana muharebe tankı — kesitten loft gövde ve kaynaklı köşeli kule, ok başı (Pfeilform) ön zırh, uzun L/55 namlu, yedi çift lastikli yol tekeri, önde gergi arkada tahrik dişlisi, sarım hesaplı palet, etek zırhları, uzaktan kumandalı silah istasyonu ve komutan periskopu.",
+  "category": "Modern Warfare",
+  "tags": [
+   "araç",
+   "askeri",
+   "tank",
+   "leopard-2"
+  ],
+  "cover": "covers/tank.png"
+ },
+ {
+  "id": "tanksavar-atgm",
+  "name": "ATGM Team",
+  "description": "Detaylı low-poly tripod tanksavar füze sistemi (Kornet tarzı) — üç ayaklı sehpa, döner/yükselen kundak, ileri-yukarı fırlatma kanisteri, büyük termal nişan/güdüm ünitesi (objektif + ekran), tutamaklar ve yanda yedek füze kanisteri.",
+  "category": "Modern Warfare",
+  "tags": [
+   "silah",
+   "askeri",
+   "tanksavar",
+   "atgm",
+   "füze",
+   "low-poly"
+  ],
+  "cover": "covers/tanksavar-atgm.png",
+  "hidden": true
+ },
+ {
+  "id": "tren",
+  "name": "Train",
+  "description": "Modern üç birimli elektrikli yolcu treni (EMU) — iki ucunda aerodinamik burunlu sürücü vagonu, ortada yolcu vagonu. Boydan boya kesintisiz cam bandı, vagon aralarında körük, çift kanatlı sürgülü kapılar, çatıda klima üniteleri ve yatık pantograf. Gövde rengi değişir, sürüşte yirmi dört tekerlek de yuvarlanır. İsteğe bağlı olarak altında balast, travers ve rayıyla birlikte hat görünür.",
+  "category": "Transportation",
+  "tags": [
+   "ulaşım",
+   "araç",
+   "tren",
+   "demiryolu",
+   "toplu taşıma",
+   "low-poly"
+  ],
+  "cover": "covers/tren.png"
+ },
+ {
+  "id": "uc-boyutlu-yazi",
+  "name": "3D Text",
+  "description": "Yazdığınız metin 3B harflere dönüşür. Metin ve renk değiştirilebilir; harfler kalınlıklı ve pahlı, dik durur.",
+  "category": "Components",
+  "tags": [
+   "bileşen",
+   "yazı",
+   "metin",
+   "text",
+   "sembol",
+   "low-poly"
+  ],
+  "cover": "covers/uc-boyutlu-yazi.png"
+ },
+ {
+  "id": "ucak-gemisi",
+  "name": "Aircraft Carrier",
+  "description": "Detaylı low-poly uçak gemisi — geniş uçuş güvertesi, açılı iniş güvertesi, pist işaretleri, starboard ada üst yapısı + köprü + dönen radar, güvertede park etmiş mini jetler, CIWS Phalanx'lar ve uçak asansörleri.",
+  "category": "Modern Warfare",
+  "tags": [
+   "araç",
+   "askeri",
+   "gemi",
+   "uçak gemisi",
+   "low-poly"
+  ],
+  "cover": "covers/ucak-gemisi.png",
+  "hidden": true
+ },
+ {
+  "id": "ugv",
+  "name": "UGV",
+  "description": "Detaylı low-poly paletli insansız kara aracı (UGV) — alçak robotik gövde, dönen sensör/kamera direği (tarama animasyonlu), uzaktan komutalı silah istasyonu (RWS + makineli + optik), antenler, ön sensörler ve ekipman kutuları.",
+  "category": "Modern Warfare",
+  "tags": [
+   "araç",
+   "askeri",
+   "robot",
+   "ugv",
+   "insansız",
+   "animasyon",
+   "low-poly"
+  ],
+  "cover": "covers/ugv.png",
+  "hidden": true
+ },
+ {
+  "id": "unlem",
+  "name": "Exclamation Mark",
+  "description": "Dik duran 3B ünlem işareti; 2B siluete kalınlık verilmiş hali, kenarları pahlı. Rengi değiştirilebilir.",
+  "category": "Components",
+  "tags": [
+   "bileşen",
+   "ünlem",
+   "işaret",
+   "sembol",
+   "uyarı",
+   "low-poly"
+  ],
+  "cover": "covers/unlem.png"
+ },
+ {
+  "id": "usv",
+  "name": "USV",
+  "description": "Detaylı low-poly insansız deniz aracı / USV (ULAQ tarzı) — sleek planing gövde + sivri pruva, kabinsiz alçak stealth üst yapı, sensör direği (EO/IR topu + dönen radar), öne uzaktan komutalı silah, kıçta gemisavar füze kanisterleri, SATCOM kubbesi ve antenler.",
+  "category": "Modern Warfare",
+  "tags": [
+   "deniz",
+   "askeri",
+   "usv",
+   "insansız",
+   "animasyon",
+   "low-poly"
+  ],
+  "cover": "covers/usv.png",
+  "hidden": true
+ },
+ {
+  "id": "yolcu-gemisi",
+  "name": "Cruise Ship",
+  "description": "160 m orta boy kruvaziyer — kesitten loft edilmiş kavisli tekne (baş tarafta V, ortada yuvarlak sintine, kıçta düz transom), öne eğik baş bodoslama, koyu tekne + beyaz üst yapı, yedi katlı balkonlu güverteler, yanlarda turuncu filika sırası, üst güvertede havuz ve güneş güvertesi, camlı köprüüstü ile yanlara taşan kanatlar, geniş yatık baca ve radar direği. Su hattında baş dalgası ile dümen suyu köpüğü. Tekne rengi değişir, üst yapı beyaz kalır.",
+  "category": "Transportation",
+  "tags": [
+   "ulaşım",
+   "deniz",
+   "gemi",
+   "yolcu gemisi",
+   "kruvaziyer",
+   "sivil",
+   "low-poly"
+  ],
+  "cover": "covers/yolcu-gemisi.png"
+ },
+ {
+  "id": "yolcu-ucagi",
+  "name": "Airliner",
+  "description": "Dar gövdeli iki motorlu yolcu uçağı (A320/737 sınıfı) — silindirik gövde, kokpit camları, gövde boyunca yolcu pencereleri, 26° ok açılı kanatlar, kanat uçlarında yukarı kıvrılan winglet, kanat altında iki turbofan, klasik kuyruk ve inip kalkan iniş takımı. Gövde rengi değişir; motor fanları döner, dönüşte uçak viraja yatar, yükseklik değişince burnu kalkar ya da düşer, havalanınca iniş takımı toplanır.",
+  "category": "Transportation",
+  "tags": [
+   "ulaşım",
+   "uçak",
+   "yolcu uçağı",
+   "havayolu",
+   "sivil havacılık",
+   "low-poly"
+  ],
+  "cover": "covers/yolcu-ucagi.png"
+ },
+ {
+  "id": "zipkin",
+  "name": "Harpoon Crossbow",
+  "description": "İki elle nişan alınıp ateşlenen ağır zıpkın arbaleti ve nişancısı (1.715 m). 0.762 m'lik yatay çelik yay kolları (ölçülmüş en geniş arbalet açıklığı), 0.955 m'lik kundak, kalın dipçik ve omuzluk, oluğun içinde iki-yüzgeçli çengelli zıpkın, kundağın altında 9.2 m halat alan tambur, kemerde kurma krikosu ve demir üzengi. Ön el silahın hesaplanmış denge noktasında. Yürüyüş döngüsü kat edilen yola bağlı: adım uzunluğu bacak zincirinden çözülüyor, ayak zemine girmiyor, figür durunca ayakta bekliyor. Ateş ettiğinde gövde hedefe dönüyor, tetik çekiliyor, yay kolları boşalıyor, zıpkın halatını tamburdan çekerek fırlıyor, sonra halat sarılıp yay yeniden geriliyor. Ceket ile silah ahşabının rengi ayrı ayrı değişir.",
+  "category": "Historical Warfare",
+  "tags": [
+   "tarihi",
+   "zipkin",
+   "arbalet",
+   "figür",
+   "insan",
+   "low-poly"
+  ],
+  "cover": "covers/zipkin.png"
+ },
+ {
+  "id": "zirhli-arac",
+  "name": "APC 8x8",
+  "description": "Detaylı low-poly tekerlekli zırhlı araç (8x8 APC/IFV) — eğimli ön zırh, 8 tekerlek, yan zırh etekleri, otomatik toplu taret, sis bombası fırlatıcıları, periskoplar, kapaklar, farlar ve antenler.",
+  "category": "Modern Warfare",
+  "tags": [
+   "araç",
+   "askeri",
+   "zırhlı",
+   "apc",
+   "low-poly"
+  ],
+  "cover": "covers/zirhli-arac.png",
+  "hidden": true
+ },
+ {
+  "id": "zirhli-suv",
+  "name": "Armored SUV",
+  "description": "B6 sınıfı zırhlandırılmış tam boy SUV (Toyota Land Cruiser 200 kasası, 4950x1970x1925 mm). Kesitten loft gövde; bütün camların önünde çelik çubuk koruma kafesi, küçültülmüş balistik cam açıklıkları ve kalın A/B/C/D direkleri, kabarık kapı kasaları, gizli menteşe conta çizgisi, takviyeli ön/arka tampon ve dört çeki halkası, taban zırhı ve kaya kızakları, run-flat lastik + ağır çelik jant, 45 mm yükseltilmiş süspansiyon, tavanda port-bagaj + alçak profilli far grubu + tavan kapağı + kısa antenler.",
+  "category": "Modern Warfare",
+  "tags": [
+   "araç",
+   "askeri",
+   "zırhlı",
+   "suv",
+   "modern",
+   "low-poly"
+  ],
+  "cover": "covers/zirhli-suv.png"
+ }
+]

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <line x1="16" y1="100" x2="184" y2="100" stroke="#E5B84B" stroke-width="4" stroke-linecap="round" transform-origin="100 100">
+    <animateTransform attributeName="transform" type="scale" dur="2.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.4;0.86;0.96;1" values="0 1;1 1;1 1;0 1;0 1" keySplines="0.4 0 0.2 1;0 0 1 1;0.4 0 1 1;0 0 1 1"/>
+  </line>
+  <circle cx="100" cy="100" r="7" fill="#E5B84B">
+    <animateTransform attributeName="transform" type="scale" additive="sum" dur="2.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0;0.14;0.24;0.86;0.94;1" values="0;0;1.3;1;1;0;0" keySplines="0 0 1 1;0.2 0.8 0.3 1.2;0.4 0 0.2 1;0 0 1 1;0.4 0 1 1;0 0 1 1"/>
+  </circle>
+</svg>

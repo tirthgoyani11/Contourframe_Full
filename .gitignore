@@ -1,0 +1,27 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+node_modules/
+.env
+.env.*
+!.env.example
+/server/data/
+*.sqlite*
+*.db
+*.db-*
+*.custom_backup
+/static/tiles_cache/
+/static/almost-touch/
+/static/midterms/
+/static/reference-map/
+/static/switzerland/
+/static/video/
+/static/videos/
+/client/almost-touch/
+/client/midterms/
+/client/reference-map/
+/client/switzerland/
+
+# Local render excerpts pending redistribution review
+/static/showcase/

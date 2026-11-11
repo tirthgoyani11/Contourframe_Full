@@ -1,0 +1,15 @@
+**
+!Dockerfile
+!requirements.txt
+!server/
+!server/**
+!client/
+!client/**
+!static/
+!static/**
+**/__pycache__/
+**/*.pyc
+**/.env*
+server/data/
+static/tiles_cache/
+static/showcase/

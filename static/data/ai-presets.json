@@ -1,0 +1,341 @@
+[
+  {
+    "id": "cinematic-france",
+    "featured": true,
+    "title": "Cinematic France",
+    "subtitle": "Gold fill, white glow, orbiting open",
+    "chip": "Give France a cinematic look",
+    "userPrompt": "Give France a cinematic look",
+    "intro": "I'll give France a cinematic treatment: a gold fill, a soft white glow, classical type, its flag and an orbiting open.",
+    "outro": "Done. A cinematic France is on your timeline. Press play to see the orbit reveal, then tweak any panel.",
+    "calls": [
+      {
+        "tool": "set_project",
+        "args": {
+          "mapStyle": "satellite"
+        }
+      },
+      {
+        "tool": "add_group",
+        "args": {
+          "group": {
+            "show": [
+              "France"
+            ],
+            "hold": 2.5
+          }
+        }
+      },
+      {
+        "tool": "set_fill",
+        "args": {
+          "groupId": "$1",
+          "color": "#D4AF37",
+          "opacity": 0.6,
+          "animation": "circularWipe"
+        }
+      },
+      {
+        "tool": "set_border",
+        "args": {
+          "groupId": "$1",
+          "color": "#FFFFFF",
+          "glowWidth": 15,
+          "animation": "twoWay"
+        }
+      },
+      {
+        "tool": "set_text",
+        "args": {
+          "groupId": "$1",
+          "font": "Cinzel",
+          "animation": "fadeIn",
+          "alwaysFaceCamera": false,
+          "size": 75
+        }
+      },
+      {
+        "tool": "set_flag",
+        "args": {
+          "groupId": "$1",
+          "show": true,
+          "opacity": 0.7,
+          "animation": "circularWipe"
+        }
+      },
+      {
+        "tool": "set_highlight",
+        "args": {
+          "groupId": "$1",
+          "enabled": true,
+          "bgOpacity": 0.4
+        }
+      },
+      {
+        "tool": "set_camera",
+        "args": {
+          "groupId": "$1",
+          "camHeight": 550
+        }
+      },
+      {
+        "tool": "set_start_frame",
+        "args": {
+          "frame": {
+            "zoomOut": 1.27,
+            "holdDuration": 1.5,
+            "transitionType": "orbit",
+            "transitionDuration": 1.5,
+            "keepFirstFrame": false
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "cinematic",
+    "title": "Cinematic spotlight",
+    "subtitle": "Gold fill, white glow, orbiting open",
+    "userPrompt": "Add Turkey with a cinematic look",
+    "intro": "I'll give Turkey a cinematic treatment: a gold fill, a soft white glow, classical type and an orbiting open.",
+    "outro": "Done. A cinematic Turkey is on your timeline. Press play to see the orbit reveal, then tweak any panel.",
+    "calls": [
+      {
+        "tool": "set_project",
+        "args": {
+          "mapStyle": "satellite"
+        }
+      },
+      {
+        "tool": "add_group",
+        "args": {
+          "group": {
+            "show": [
+              "Turkey"
+            ],
+            "hold": 3
+          }
+        }
+      },
+      {
+        "tool": "set_fill",
+        "args": {
+          "groupId": "$1",
+          "color": "#D4AF37",
+          "opacity": 0.6,
+          "animation": "circularWipe"
+        }
+      },
+      {
+        "tool": "set_border",
+        "args": {
+          "groupId": "$1",
+          "color": "#FFFFFF",
+          "glowWidth": 15,
+          "animation": "twoWay"
+        }
+      },
+      {
+        "tool": "set_text",
+        "args": {
+          "groupId": "$1",
+          "font": "Cinzel",
+          "animation": "fadeIn",
+          "alwaysFaceCamera": false,
+          "size": 75
+        }
+      },
+      {
+        "tool": "set_flag",
+        "args": {
+          "groupId": "$1",
+          "show": true,
+          "opacity": 0.7,
+          "animation": "circularWipe"
+        }
+      },
+      {
+        "tool": "set_highlight",
+        "args": {
+          "groupId": "$1",
+          "enabled": true,
+          "bgOpacity": 0.4
+        }
+      },
+      {
+        "tool": "set_camera",
+        "args": {
+          "groupId": "$1",
+          "camHeight": 550
+        }
+      },
+      {
+        "tool": "set_start_frame",
+        "args": {
+          "frame": {
+            "zoomOut": 1.27,
+            "holdDuration": 1.5,
+            "transitionType": "orbit",
+            "transitionDuration": 1.5,
+            "keepFirstFrame": false
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "guess-the-country",
+    "title": "Guess the country",
+    "subtitle": "Quiz reveal: a shape, then the answer",
+    "userPrompt": "Make a 'guess the country' video",
+    "intro": "Classic quiz format. First the silhouette with a \"?\", then the same shot reveals the name, flag and fill.",
+    "outro": "Done. Two scenes are on your timeline: the question, then the reveal. Swap Hungary for any country to make your own.",
+    "calls": [
+      {
+        "tool": "set_project",
+        "args": {
+          "showLabels": false
+        }
+      },
+      {
+        "tool": "add_group",
+        "args": {
+          "group": {
+            "show": [
+              "Hungary"
+            ],
+            "hold": 3
+          }
+        }
+      },
+      {
+        "tool": "set_identity",
+        "args": {
+          "groupId": "$1",
+          "label": "?"
+        }
+      },
+      {
+        "tool": "set_fill",
+        "args": {
+          "groupId": "$1",
+          "color": "#ffffff"
+        }
+      },
+      {
+        "tool": "set_border",
+        "args": {
+          "groupId": "$1",
+          "color": "#000000",
+          "width": 2,
+          "glowWidth": 8
+        }
+      },
+      {
+        "tool": "set_text",
+        "args": {
+          "groupId": "$1",
+          "animation": "fadeIn"
+        }
+      },
+      {
+        "tool": "set_flag",
+        "args": {
+          "groupId": "$1",
+          "show": false
+        }
+      },
+      {
+        "tool": "duplicate_group",
+        "args": {
+          "groupId": "$1"
+        }
+      },
+      {
+        "tool": "set_identity",
+        "args": {
+          "groupId": "$7",
+          "label": "Hungary"
+        }
+      },
+      {
+        "tool": "set_text",
+        "args": {
+          "groupId": "$7",
+          "animation": "typewriter"
+        }
+      },
+      {
+        "tool": "set_fill",
+        "args": {
+          "groupId": "$7",
+          "animation": "split"
+        }
+      },
+      {
+        "tool": "set_flag",
+        "args": {
+          "groupId": "$7",
+          "show": true,
+          "opacity": 1,
+          "animation": "split"
+        }
+      }
+    ]
+  },
+  {
+    "id": "takeover",
+    "title": "Takeover / merge",
+    "subtitle": "Two countries fold into one bloc",
+    "userPrompt": "Animate Germany taking over Austria",
+    "intro": "I'll show Germany and Austria side by side, then merge them into a single bloc with the camera held steady.",
+    "outro": "Done. Scene one shows both countries; scene two merges them into Germany. Change the pair to animate any takeover.",
+    "calls": [
+      {
+        "tool": "add_group",
+        "args": {
+          "group": {
+            "show": [
+              "Germany",
+              "Austria"
+            ],
+            "hold": 3
+          }
+        }
+      },
+      {
+        "tool": "set_flag",
+        "args": {
+          "groupId": "$0",
+          "show": true,
+          "opacity": 1
+        }
+      },
+      {
+        "tool": "duplicate_group",
+        "args": {
+          "groupId": "$0"
+        }
+      },
+      {
+        "tool": "merge_countries",
+        "args": {
+          "groupId": "$2",
+          "countries": [
+            "Germany",
+            "Austria"
+          ],
+          "into": "Germany"
+        }
+      },
+      {
+        "tool": "set_flag",
+        "args": {
+          "groupId": "$2",
+          "show": true,
+          "opacity": 1
+        }
+      }
+    ]
+  }
+]

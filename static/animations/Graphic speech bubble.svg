@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <g transform="translate(100 100)">
+    <path d="M-80 -56 h160 a16 16 0 0 1 16 16 v72 a16 16 0 0 1 -16 16 h-96 l-30 30 v-30 h-34 a16 16 0 0 1 -16 -16 v-72 a16 16 0 0 1 16 -16 z" fill="#FFFFFF">
+      <animateTransform attributeName="transform" type="scale" additive="sum" dur="2.6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0;0.14;0.24;0.86;0.94;1" values="0;0;1.1;1;1;0;0" keySplines="0 0 1 1;0.2 0.8 0.3 1.2;0.4 0 0.2 1;0 0 1 1;0.4 0 1 1;0 0 1 1"/>
+    </path>
+    <g fill="#1C1A16">
+      <circle cx="-28" cy="-4" r="9">
+        <animate attributeName="opacity" dur="2.6s" repeatCount="indefinite" keyTimes="0;0.26;0.34;0.86;0.9;1" values="0;0;1;1;0;0"/>
+      </circle>
+      <circle cx="0" cy="-4" r="9">
+        <animate attributeName="opacity" dur="2.6s" repeatCount="indefinite" keyTimes="0;0.34;0.42;0.86;0.9;1" values="0;0;1;1;0;0"/>
+      </circle>
+      <circle cx="28" cy="-4" r="9">
+        <animate attributeName="opacity" dur="2.6s" repeatCount="indefinite" keyTimes="0;0.42;0.5;0.86;0.9;1" values="0;0;1;1;0;0"/>
+      </circle>
+    </g>
+  </g>
+</svg>

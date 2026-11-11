@@ -1,0 +1,12 @@
+.projects { padding-block: 3rem; }
+.projects h1 { font-size: clamp(2.5rem, 7vw, 4.5rem); }
+.projects form { margin-block: 2rem 1rem; }
+.projects label { display: block; margin-bottom: .5rem; font-weight: 700; }
+.project-controls { display: flex; flex-wrap: wrap; gap: .6rem; }
+.project-controls input, .project-controls button { font: inherit; }
+.project-controls input { min-width: 0; padding: .65rem; border: 1px solid #777; border-radius: 4px; }
+.project-controls button { border: 0; cursor: pointer; font-weight: 700; }
+.project-controls button:disabled { opacity: .65; cursor: wait; }
+#project-list { padding: 0; list-style: none; }
+#project-list li { border-top: 1px solid var(--line); }
+#project-list a { display: block; padding: .8rem 0; text-decoration: underline; }

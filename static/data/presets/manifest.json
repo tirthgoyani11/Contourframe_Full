@@ -1,0 +1,51 @@
+{
+  "presets": [
+    {
+      "id": "empty",
+      "title": "Empty",
+      "subtitle": "Start from scratch",
+      "thumbnail": "00_thumbnail.png",
+      "accent": "#d4a957"
+    },
+    {
+      "id": "01_spotlight",
+      "title": "Spotlight",
+      "subtitle": "A single country, polished",
+      "file": "01_spotlight.json",
+      "thumbnail": "01_thumbnail.png",
+      "accent": "#d4a957"
+    },
+    {
+      "id": "02_face_off",
+      "title": "Country Face-Off",
+      "subtitle": "Two countries, one orbit",
+      "file": "02_face_off.json",
+      "thumbnail": "02_thumbnail.png",
+      "accent": "#d4a957"
+    },
+    {
+      "id": "03_world_tour",
+      "title": "World Tour",
+      "subtitle": "Seven countries across continents",
+      "file": "03_world_tour.json",
+      "thumbnail": "03_thumbnail.png",
+      "accent": "#d4a957"
+    },
+    {
+      "id": "04_travel_route",
+      "title": "Travel Route",
+      "subtitle": "Two places with a sweep",
+      "file": "04_travel_route.json",
+      "thumbnail": "04_thumbnail.png",
+      "accent": "#d4a957"
+    },
+    {
+      "id": "05_continent",
+      "title": "Continent Reveal",
+      "subtitle": "An entire continent",
+      "file": "05_continent.json",
+      "thumbnail": "05_thumbnail.png",
+      "accent": "#d4a957"
+    }
+  ]
+}

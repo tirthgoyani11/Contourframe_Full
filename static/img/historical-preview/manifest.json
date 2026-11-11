@@ -1,0 +1,1501 @@
+{
+  "entities": [
+    {
+      "entityId": "ottoman-empire",
+      "displayName": "Ottoman Empire",
+      "snapshots": [
+        {
+          "startYear": 1299,
+          "endYear": 1331,
+          "img": "ottoman-empire/1.webp"
+        },
+        {
+          "startYear": 1331,
+          "endYear": 1362,
+          "img": "ottoman-empire/2.webp"
+        },
+        {
+          "startYear": 1362,
+          "endYear": 1371,
+          "img": "ottoman-empire/3.webp"
+        },
+        {
+          "startYear": 1371,
+          "endYear": 1396,
+          "img": "ottoman-empire/4.webp"
+        },
+        {
+          "startYear": 1396,
+          "endYear": 1413,
+          "img": "ottoman-empire/5.webp"
+        },
+        {
+          "startYear": 1413,
+          "endYear": 1415,
+          "img": "ottoman-empire/6.webp"
+        },
+        {
+          "startYear": 1415,
+          "endYear": 1426,
+          "img": "ottoman-empire/7.webp"
+        },
+        {
+          "startYear": 1426,
+          "endYear": 1427,
+          "img": "ottoman-empire/8.webp"
+        },
+        {
+          "startYear": 1427,
+          "endYear": 1444,
+          "img": "ottoman-empire/9.webp"
+        },
+        {
+          "startYear": 1444,
+          "endYear": 1451,
+          "img": "ottoman-empire/10.webp"
+        },
+        {
+          "startYear": 1451,
+          "endYear": 1453,
+          "img": "ottoman-empire/11.webp"
+        },
+        {
+          "startYear": 1453,
+          "endYear": 1455,
+          "img": "ottoman-empire/12.webp"
+        },
+        {
+          "startYear": 1455,
+          "endYear": 1459,
+          "img": "ottoman-empire/13.webp"
+        },
+        {
+          "startYear": 1459,
+          "endYear": 1461,
+          "img": "ottoman-empire/14.webp"
+        },
+        {
+          "startYear": 1461,
+          "endYear": 1463,
+          "img": "ottoman-empire/15.webp"
+        },
+        {
+          "startYear": 1463,
+          "endYear": 1472,
+          "img": "ottoman-empire/16.webp"
+        },
+        {
+          "startYear": 1472,
+          "endYear": 1479,
+          "img": "ottoman-empire/17.webp"
+        },
+        {
+          "startYear": 1479,
+          "endYear": 1484,
+          "img": "ottoman-empire/18.webp"
+        },
+        {
+          "startYear": 1484,
+          "endYear": 1487,
+          "img": "ottoman-empire/19.webp"
+        },
+        {
+          "startYear": 1487,
+          "endYear": 1489,
+          "img": "ottoman-empire/20.webp"
+        },
+        {
+          "startYear": 1489,
+          "endYear": 1490,
+          "img": "ottoman-empire/21.webp"
+        },
+        {
+          "startYear": 1490,
+          "endYear": 1503,
+          "img": "ottoman-empire/22.webp"
+        },
+        {
+          "startYear": 1503,
+          "endYear": 1513,
+          "img": "ottoman-empire/23.webp"
+        },
+        {
+          "startYear": 1513,
+          "endYear": 1517,
+          "img": "ottoman-empire/24.webp"
+        },
+        {
+          "startYear": 1517,
+          "endYear": 1526,
+          "img": "ottoman-empire/25.webp"
+        },
+        {
+          "startYear": 1526,
+          "endYear": 1527,
+          "img": "ottoman-empire/26.webp"
+        },
+        {
+          "startYear": 1527,
+          "endYear": 1534,
+          "img": "ottoman-empire/27.webp"
+        },
+        {
+          "startYear": 1534,
+          "endYear": 1555,
+          "img": "ottoman-empire/28.webp"
+        },
+        {
+          "startYear": 1555,
+          "endYear": 1566,
+          "img": "ottoman-empire/29.webp"
+        },
+        {
+          "startYear": 1566,
+          "endYear": 1570,
+          "img": "ottoman-empire/30.webp"
+        },
+        {
+          "startYear": 1570,
+          "endYear": 1574,
+          "img": "ottoman-empire/31.webp"
+        },
+        {
+          "startYear": 1574,
+          "endYear": 1578,
+          "img": "ottoman-empire/32.webp"
+        },
+        {
+          "startYear": 1578,
+          "endYear": 1612,
+          "img": "ottoman-empire/33.webp"
+        },
+        {
+          "startYear": 1612,
+          "endYear": 1667,
+          "img": "ottoman-empire/34.webp"
+        },
+        {
+          "startYear": 1667,
+          "endYear": 1682,
+          "img": "ottoman-empire/35.webp"
+        },
+        {
+          "startYear": 1682,
+          "endYear": 1685,
+          "img": "ottoman-empire/36.webp"
+        },
+        {
+          "startYear": 1685,
+          "endYear": 1686,
+          "img": "ottoman-empire/37.webp"
+        },
+        {
+          "startYear": 1686,
+          "endYear": 1699,
+          "img": "ottoman-empire/38.webp"
+        },
+        {
+          "startYear": 1699,
+          "endYear": 1705,
+          "img": "ottoman-empire/39.webp"
+        },
+        {
+          "startYear": 1705,
+          "endYear": 1711,
+          "img": "ottoman-empire/40.webp"
+        },
+        {
+          "startYear": 1711,
+          "endYear": 1718,
+          "img": "ottoman-empire/41.webp"
+        },
+        {
+          "startYear": 1718,
+          "endYear": 1723,
+          "img": "ottoman-empire/42.webp"
+        },
+        {
+          "startYear": 1723,
+          "endYear": 1736,
+          "img": "ottoman-empire/43.webp"
+        },
+        {
+          "startYear": 1736,
+          "endYear": 1739,
+          "img": "ottoman-empire/44.webp"
+        },
+        {
+          "startYear": 1739,
+          "endYear": 1746,
+          "img": "ottoman-empire/45.webp"
+        },
+        {
+          "startYear": 1746,
+          "endYear": 1783,
+          "img": "ottoman-empire/46.webp"
+        },
+        {
+          "startYear": 1783,
+          "endYear": 1797,
+          "img": "ottoman-empire/47.webp"
+        },
+        {
+          "startYear": 1797,
+          "endYear": 1805,
+          "img": "ottoman-empire/48.webp"
+        },
+        {
+          "startYear": 1805,
+          "endYear": 1807,
+          "img": "ottoman-empire/49.webp"
+        },
+        {
+          "startYear": 1807,
+          "endYear": 1817,
+          "img": "ottoman-empire/50.webp"
+        },
+        {
+          "startYear": 1817,
+          "endYear": 1822,
+          "img": "ottoman-empire/51.webp"
+        },
+        {
+          "startYear": 1822,
+          "endYear": 1832,
+          "img": "ottoman-empire/52.webp"
+        },
+        {
+          "startYear": 1832,
+          "endYear": 1852,
+          "img": "ottoman-empire/53.webp"
+        },
+        {
+          "startYear": 1852,
+          "endYear": 1878,
+          "img": "ottoman-empire/54.webp"
+        },
+        {
+          "startYear": 1878,
+          "endYear": 1885,
+          "img": "ottoman-empire/55.webp"
+        },
+        {
+          "startYear": 1885,
+          "endYear": 1898,
+          "img": "ottoman-empire/56.webp"
+        },
+        {
+          "startYear": 1898,
+          "endYear": 1913,
+          "img": "ottoman-empire/57.webp"
+        },
+        {
+          "startYear": 1913,
+          "endYear": 1916,
+          "img": "ottoman-empire/58.webp"
+        },
+        {
+          "startYear": 1916,
+          "endYear": 1917,
+          "img": "ottoman-empire/59.webp"
+        },
+        {
+          "startYear": 1917,
+          "endYear": 1922,
+          "img": "ottoman-empire/60.webp"
+        }
+      ]
+    },
+    {
+      "entityId": "roman-empire",
+      "displayName": "Roman Empire",
+      "snapshots": [
+        {
+          "startYear": -27,
+          "endYear": -19,
+          "img": "roman-empire/0.webp"
+        },
+        {
+          "startYear": -19,
+          "endYear": -16,
+          "img": "roman-empire/1.webp"
+        },
+        {
+          "startYear": -16,
+          "endYear": -15,
+          "img": "roman-empire/2.webp"
+        },
+        {
+          "startYear": -15,
+          "endYear": -14,
+          "img": "roman-empire/3.webp"
+        },
+        {
+          "startYear": -14,
+          "endYear": 6,
+          "img": "roman-empire/4.webp"
+        },
+        {
+          "startYear": 6,
+          "endYear": 42,
+          "img": "roman-empire/5.webp"
+        },
+        {
+          "startYear": 42,
+          "endYear": 47,
+          "img": "roman-empire/6.webp"
+        },
+        {
+          "startYear": 47,
+          "endYear": 56,
+          "img": "roman-empire/7.webp"
+        },
+        {
+          "startYear": 56,
+          "endYear": 80,
+          "img": "roman-empire/8.webp"
+        },
+        {
+          "startYear": 80,
+          "endYear": 105,
+          "img": "roman-empire/9.webp"
+        },
+        {
+          "startYear": 106,
+          "endYear": 114,
+          "img": "roman-empire/10.webp"
+        },
+        {
+          "startYear": 114,
+          "endYear": 116,
+          "img": "roman-empire/11.webp"
+        },
+        {
+          "startYear": 116,
+          "endYear": 117,
+          "img": "roman-empire/12.webp"
+        },
+        {
+          "startYear": 117,
+          "endYear": 118,
+          "img": "roman-empire/13.webp"
+        },
+        {
+          "startYear": 118,
+          "endYear": 198,
+          "img": "roman-empire/14.webp"
+        },
+        {
+          "startYear": 198,
+          "endYear": 214,
+          "img": "roman-empire/15.webp"
+        },
+        {
+          "startYear": 214,
+          "endYear": 270,
+          "img": "roman-empire/16.webp"
+        },
+        {
+          "startYear": 270,
+          "endYear": 383,
+          "img": "roman-empire/17.webp"
+        },
+        {
+          "startYear": 383,
+          "endYear": 395,
+          "img": "roman-empire/18.webp"
+        }
+      ]
+    },
+    {
+      "entityId": "holy-roman-empire",
+      "displayName": "Holy Roman Empire",
+      "snapshots": [
+        {
+          "startYear": 962,
+          "endYear": 983,
+          "img": "holy-roman-empire/0.webp"
+        },
+        {
+          "startYear": 983,
+          "endYear": 1002,
+          "img": "holy-roman-empire/1.webp"
+        },
+        {
+          "startYear": 1003,
+          "endYear": 1017,
+          "img": "holy-roman-empire/2.webp"
+        },
+        {
+          "startYear": 1017,
+          "endYear": 1032,
+          "img": "holy-roman-empire/3.webp"
+        },
+        {
+          "startYear": 1032,
+          "endYear": 1043,
+          "img": "holy-roman-empire/4.webp"
+        },
+        {
+          "startYear": 1043,
+          "endYear": 1167,
+          "img": "holy-roman-empire/5.webp"
+        },
+        {
+          "startYear": 1167,
+          "endYear": 1201,
+          "img": "holy-roman-empire/6.webp"
+        },
+        {
+          "startYear": 1648,
+          "endYear": 1659,
+          "img": "holy-roman-empire/7.webp"
+        },
+        {
+          "startYear": 1678,
+          "endYear": 1697,
+          "img": "holy-roman-empire/8.webp"
+        },
+        {
+          "startYear": 1697,
+          "endYear": 1713,
+          "img": "holy-roman-empire/9.webp"
+        },
+        {
+          "startYear": 1713,
+          "endYear": 1742,
+          "img": "holy-roman-empire/10.webp"
+        },
+        {
+          "startYear": 1742,
+          "endYear": 1766,
+          "img": "holy-roman-empire/11.webp"
+        },
+        {
+          "startYear": 1766,
+          "endYear": 1769,
+          "img": "holy-roman-empire/12.webp"
+        },
+        {
+          "startYear": 1769,
+          "endYear": 1779,
+          "img": "holy-roman-empire/13.webp"
+        },
+        {
+          "startYear": 1779,
+          "endYear": 1787,
+          "img": "holy-roman-empire/14.webp"
+        },
+        {
+          "startYear": 1787,
+          "endYear": 1797,
+          "img": "holy-roman-empire/15.webp"
+        },
+        {
+          "startYear": 1797,
+          "endYear": 1803,
+          "img": "holy-roman-empire/16.webp"
+        },
+        {
+          "startYear": 1803,
+          "endYear": 1806,
+          "img": "holy-roman-empire/17.webp"
+        }
+      ]
+    },
+    {
+      "entityId": "byzantine-empire",
+      "displayName": "Byzantine Empire",
+      "snapshots": [
+        {
+          "startYear": 395,
+          "endYear": 534,
+          "img": "byzantine-empire/0.webp"
+        },
+        {
+          "startYear": 536,
+          "endYear": 552,
+          "img": "byzantine-empire/1.webp"
+        },
+        {
+          "startYear": 576,
+          "endYear": 603,
+          "img": "byzantine-empire/2.webp"
+        },
+        {
+          "startYear": 603,
+          "endYear": 624,
+          "img": "byzantine-empire/3.webp"
+        },
+        {
+          "startYear": 647,
+          "endYear": 680,
+          "img": "byzantine-empire/4.webp"
+        },
+        {
+          "startYear": 698,
+          "endYear": 752,
+          "img": "byzantine-empire/5.webp"
+        },
+        {
+          "startYear": 752,
+          "endYear": 798,
+          "img": "byzantine-empire/6.webp"
+        },
+        {
+          "startYear": 798,
+          "endYear": 824,
+          "img": "byzantine-empire/7.webp"
+        },
+        {
+          "startYear": 847,
+          "endYear": 871,
+          "img": "byzantine-empire/8.webp"
+        },
+        {
+          "startYear": 886,
+          "endYear": 902,
+          "img": "byzantine-empire/9.webp"
+        },
+        {
+          "startYear": 902,
+          "endYear": 961,
+          "img": "byzantine-empire/10.webp"
+        },
+        {
+          "startYear": 961,
+          "endYear": 1185,
+          "img": "byzantine-empire/11.webp"
+        },
+        {
+          "startYear": 1185,
+          "endYear": 1204,
+          "img": "byzantine-empire/12.webp"
+        },
+        {
+          "startYear": 1261,
+          "endYear": 1329,
+          "img": "byzantine-empire/13.webp"
+        },
+        {
+          "startYear": 1354,
+          "endYear": 1453,
+          "img": "byzantine-empire/14.webp"
+        }
+      ]
+    },
+    {
+      "entityId": "soviet-union",
+      "displayName": "Soviet Union",
+      "snapshots": [
+        {
+          "startYear": 1922,
+          "endYear": 1925,
+          "img": "soviet-union/0.webp"
+        },
+        {
+          "startYear": 1925,
+          "endYear": 1926,
+          "img": "soviet-union/1.webp"
+        },
+        {
+          "startYear": 1926,
+          "endYear": 1939,
+          "img": "soviet-union/2.webp"
+        },
+        {
+          "startYear": 1939,
+          "endYear": 1939,
+          "img": "soviet-union/3.webp"
+        },
+        {
+          "startYear": 1939,
+          "endYear": 1940,
+          "img": "soviet-union/4.webp"
+        },
+        {
+          "startYear": 1940,
+          "endYear": 1940,
+          "img": "soviet-union/5.webp"
+        },
+        {
+          "startYear": 1940,
+          "endYear": 1940,
+          "img": "soviet-union/6.webp"
+        },
+        {
+          "startYear": 1940,
+          "endYear": 1940,
+          "img": "soviet-union/7.webp"
+        },
+        {
+          "startYear": 1940,
+          "endYear": 1940,
+          "img": "soviet-union/8.webp"
+        },
+        {
+          "startYear": 1940,
+          "endYear": 1944,
+          "img": "soviet-union/9.webp"
+        },
+        {
+          "startYear": 1944,
+          "endYear": 1945,
+          "img": "soviet-union/10.webp"
+        },
+        {
+          "startYear": 1945,
+          "endYear": 1945,
+          "img": "soviet-union/11.webp"
+        },
+        {
+          "startYear": 1945,
+          "endYear": 1945,
+          "img": "soviet-union/12.webp"
+        },
+        {
+          "startYear": 1945,
+          "endYear": 1948,
+          "img": "soviet-union/13.webp"
+        },
+        {
+          "startYear": 1948,
+          "endYear": 1951,
+          "img": "soviet-union/14.webp"
+        }
+      ]
+    },
+    {
+      "entityId": "germany-eras",
+      "displayName": "Germany (1871-present)",
+      "snapshots": [
+        {
+          "startYear": 1871,
+          "endYear": 1890,
+          "img": "germany-eras/0.webp"
+        },
+        {
+          "startYear": 1890,
+          "endYear": 1918,
+          "img": "germany-eras/1.webp"
+        },
+        {
+          "startYear": 1918,
+          "endYear": 1920,
+          "img": "germany-eras/2.webp"
+        },
+        {
+          "startYear": 1922,
+          "endYear": 1935,
+          "img": "germany-eras/3.webp"
+        },
+        {
+          "startYear": 1936,
+          "endYear": 1938,
+          "img": "germany-eras/4.webp"
+        },
+        {
+          "startYear": 1941,
+          "endYear": 1945,
+          "img": "germany-eras/5.webp"
+        },
+        {
+          "startYear": 1949,
+          "endYear": 1952,
+          "img": "germany-eras/6.webp"
+        },
+        {
+          "startYear": 1949,
+          "endYear": 1951,
+          "img": "germany-eras/7.webp"
+        },
+        {
+          "startYear": 1951,
+          "endYear": 1990,
+          "img": "germany-eras/8.webp"
+        },
+        {
+          "startYear": 1952,
+          "endYear": 1957,
+          "img": "germany-eras/9.webp"
+        },
+        {
+          "startYear": 1957,
+          "endYear": 1963,
+          "img": "germany-eras/10.webp"
+        },
+        {
+          "startYear": 1963,
+          "endYear": 1990,
+          "img": "germany-eras/11.webp"
+        },
+        {
+          "startYear": 1990,
+          "endYear": 1994,
+          "img": "germany-eras/12.webp"
+        },
+        {
+          "startYear": 1994,
+          "endYear": 1996,
+          "img": "germany-eras/13.webp"
+        }
+      ]
+    },
+    {
+      "entityId": "russia-empire",
+      "displayName": "Russian Empire",
+      "snapshots": [
+        {
+          "startYear": 1743,
+          "endYear": 1772,
+          "img": "russia-empire/0.webp"
+        },
+        {
+          "startYear": 1778,
+          "endYear": 1783,
+          "img": "russia-empire/1.webp"
+        },
+        {
+          "startYear": 1783,
+          "endYear": 1792,
+          "img": "russia-empire/2.webp"
+        },
+        {
+          "startYear": 1795,
+          "endYear": 1807,
+          "img": "russia-empire/3.webp"
+        },
+        {
+          "startYear": 1815,
+          "endYear": 1855,
+          "img": "russia-empire/4.webp"
+        },
+        {
+          "startYear": 1856,
+          "endYear": 1858,
+          "img": "russia-empire/5.webp"
+        },
+        {
+          "startYear": 1860,
+          "endYear": 1867,
+          "img": "russia-empire/6.webp"
+        },
+        {
+          "startYear": 1868,
+          "endYear": 1873,
+          "img": "russia-empire/7.webp"
+        },
+        {
+          "startYear": 1881,
+          "endYear": 1898,
+          "img": "russia-empire/8.webp"
+        },
+        {
+          "startYear": 1898,
+          "endYear": 1905,
+          "img": "russia-empire/9.webp"
+        },
+        {
+          "startYear": 1908,
+          "endYear": 1914,
+          "img": "russia-empire/10.webp"
+        }
+      ]
+    },
+    {
+      "entityId": "mongol-empire",
+      "displayName": "Mongol Empire",
+      "snapshots": [
+        {
+          "startYear": 1162,
+          "endYear": 1200,
+          "img": "mongol-empire/0.webp"
+        },
+        {
+          "startYear": 1201,
+          "endYear": 1204,
+          "img": "mongol-empire/1.webp"
+        },
+        {
+          "startYear": 1205,
+          "endYear": 1207,
+          "img": "mongol-empire/2.webp"
+        },
+        {
+          "startYear": 1208,
+          "endYear": 1209,
+          "img": "mongol-empire/3.webp"
+        },
+        {
+          "startYear": 1210,
+          "endYear": 1214,
+          "img": "mongol-empire/4.webp"
+        },
+        {
+          "startYear": 1215,
+          "endYear": 1218,
+          "img": "mongol-empire/5.webp"
+        },
+        {
+          "startYear": 1218,
+          "endYear": 1231,
+          "img": "mongol-empire/6.webp"
+        },
+        {
+          "startYear": 1231,
+          "endYear": 1239,
+          "img": "mongol-empire/7.webp"
+        },
+        {
+          "startYear": 1239,
+          "endYear": 1259,
+          "img": "mongol-empire/8.webp"
+        },
+        {
+          "startYear": 1259,
+          "endYear": 1271,
+          "img": "mongol-empire/9.webp"
+        }
+      ]
+    },
+    {
+      "entityId": "japan-empire",
+      "displayName": "Empire of Japan",
+      "snapshots": [
+        {
+          "startYear": 1869,
+          "endYear": 1895,
+          "img": "japan-empire/0.webp"
+        },
+        {
+          "startYear": 1895,
+          "endYear": 1898,
+          "img": "japan-empire/1.webp"
+        },
+        {
+          "startYear": 1898,
+          "endYear": 1905,
+          "img": "japan-empire/2.webp"
+        },
+        {
+          "startYear": 1905,
+          "endYear": 1910,
+          "img": "japan-empire/3.webp"
+        },
+        {
+          "startYear": 1910,
+          "endYear": 1919,
+          "img": "japan-empire/4.webp"
+        },
+        {
+          "startYear": 1920,
+          "endYear": 1925,
+          "img": "japan-empire/5.webp"
+        },
+        {
+          "startYear": 1925,
+          "endYear": 1931,
+          "img": "japan-empire/6.webp"
+        },
+        {
+          "startYear": 1931,
+          "endYear": 1945,
+          "img": "japan-empire/7.webp"
+        },
+        {
+          "startYear": 1945,
+          "endYear": 1947,
+          "img": "japan-empire/8.webp"
+        }
+      ]
+    },
+    {
+      "entityId": "china-prc",
+      "displayName": "China (PRC)",
+      "snapshots": [
+        {
+          "startYear": 1949,
+          "endYear": 1950,
+          "img": "china-prc/0.webp"
+        },
+        {
+          "startYear": 1950,
+          "endYear": 1951,
+          "img": "china-prc/1.webp"
+        },
+        {
+          "startYear": 1951,
+          "endYear": 1958,
+          "img": "china-prc/2.webp"
+        },
+        {
+          "startYear": 1958,
+          "endYear": 1962,
+          "img": "china-prc/3.webp"
+        },
+        {
+          "startYear": 1962,
+          "endYear": 1997,
+          "img": "china-prc/4.webp"
+        },
+        {
+          "startYear": 1997,
+          "endYear": 1999,
+          "img": "china-prc/5.webp"
+        },
+        {
+          "startYear": 1999,
+          "endYear": 2004,
+          "img": "china-prc/6.webp"
+        }
+      ]
+    },
+    {
+      "entityId": "china-roc",
+      "displayName": "China (Republic of China)",
+      "snapshots": [
+        {
+          "startYear": 1912,
+          "endYear": 1930,
+          "img": "china-roc/0.webp"
+        },
+        {
+          "startYear": 1930,
+          "endYear": 1935,
+          "img": "china-roc/1.webp"
+        },
+        {
+          "startYear": 1935,
+          "endYear": 1945,
+          "img": "china-roc/2.webp"
+        },
+        {
+          "startYear": 1945,
+          "endYear": 1949,
+          "img": "china-roc/3.webp"
+        },
+        {
+          "startYear": 1949,
+          "endYear": 1950,
+          "img": "china-roc/4.webp"
+        },
+        {
+          "startYear": 1950,
+          "endYear": 1958,
+          "img": "china-roc/5.webp"
+        },
+        {
+          "startYear": 1958,
+          "endYear": 1998,
+          "img": "china-roc/6.webp"
+        }
+      ]
+    },
+    {
+      "entityId": "italy-kingdom",
+      "displayName": "Italy (Kingdom)",
+      "snapshots": [
+        {
+          "startYear": 1861,
+          "endYear": 1866,
+          "img": "italy-kingdom/0.webp"
+        },
+        {
+          "startYear": 1866,
+          "endYear": 1870,
+          "img": "italy-kingdom/1.webp"
+        },
+        {
+          "startYear": 1870,
+          "endYear": 1920,
+          "img": "italy-kingdom/2.webp"
+        },
+        {
+          "startYear": 1920,
+          "endYear": 1924,
+          "img": "italy-kingdom/3.webp"
+        },
+        {
+          "startYear": 1945,
+          "endYear": 1945,
+          "img": "italy-kingdom/4.webp"
+        }
+      ]
+    },
+    {
+      "entityId": "ming-dynasty",
+      "displayName": "Ming Dynasty",
+      "snapshots": [
+        {
+          "startYear": 1368,
+          "endYear": 1387,
+          "img": "ming-dynasty/0.webp"
+        },
+        {
+          "startYear": 1387,
+          "endYear": 1407,
+          "img": "ming-dynasty/1.webp"
+        },
+        {
+          "startYear": 1407,
+          "endYear": 1428,
+          "img": "ming-dynasty/2.webp"
+        },
+        {
+          "startYear": 1428,
+          "endYear": 1618,
+          "img": "ming-dynasty/3.webp"
+        },
+        {
+          "startYear": 1618,
+          "endYear": 1644,
+          "img": "ming-dynasty/4.webp"
+        }
+      ]
+    },
+    {
+      "entityId": "france-republic",
+      "displayName": "France (post-1947)",
+      "snapshots": [
+        {
+          "startYear": 1947,
+          "endYear": 1955,
+          "img": "france-republic/0.webp"
+        },
+        {
+          "startYear": 1955,
+          "endYear": 1961,
+          "img": "france-republic/1.webp"
+        },
+        {
+          "startYear": 1961,
+          "endYear": 1962,
+          "img": "france-republic/2.webp"
+        },
+        {
+          "startYear": 1962,
+          "endYear": 1971,
+          "img": "france-republic/3.webp"
+        },
+        {
+          "startYear": 1971,
+          "endYear": 1975,
+          "img": "france-republic/4.webp"
+        },
+        {
+          "startYear": 1975,
+          "endYear": 1977,
+          "img": "france-republic/5.webp"
+        },
+        {
+          "startYear": 1977,
+          "endYear": 2007,
+          "img": "france-republic/6.webp"
+        }
+      ]
+    },
+    {
+      "entityId": "british-empire",
+      "displayName": "British Empire",
+      "snapshots": [
+        {
+          "startYear": 1713,
+          "endYear": 1717,
+          "img": "british-empire/0.webp"
+        },
+        {
+          "startYear": 1718,
+          "endYear": 1727,
+          "img": "british-empire/1.webp"
+        },
+        {
+          "startYear": 1727,
+          "endYear": 1742,
+          "img": "british-empire/2.webp"
+        },
+        {
+          "startYear": 1744,
+          "endYear": 1756,
+          "img": "british-empire/3.webp"
+        },
+        {
+          "startYear": 1758,
+          "endYear": 1761,
+          "img": "british-empire/4.webp"
+        },
+        {
+          "startYear": 1765,
+          "endYear": 1774,
+          "img": "british-empire/5.webp"
+        },
+        {
+          "startYear": 1776,
+          "endYear": 1778,
+          "img": "british-empire/6.webp"
+        },
+        {
+          "startYear": 1789,
+          "endYear": 1792,
+          "img": "british-empire/7.webp"
+        },
+        {
+          "startYear": 1792,
+          "endYear": 1793,
+          "img": "british-empire/8.webp"
+        },
+        {
+          "startYear": 1803,
+          "endYear": 1805,
+          "img": "british-empire/9.webp"
+        },
+        {
+          "startYear": 1811,
+          "endYear": 1814,
+          "img": "british-empire/10.webp"
+        },
+        {
+          "startYear": 1821,
+          "endYear": 1824,
+          "img": "british-empire/11.webp"
+        },
+        {
+          "startYear": 1832,
+          "endYear": 1838,
+          "img": "british-empire/12.webp"
+        },
+        {
+          "startYear": 1844,
+          "endYear": 1846,
+          "img": "british-empire/13.webp"
+        },
+        {
+          "startYear": 1850,
+          "endYear": 1852,
+          "img": "british-empire/14.webp"
+        },
+        {
+          "startYear": 1864,
+          "endYear": 1868,
+          "img": "british-empire/15.webp"
+        },
+        {
+          "startYear": 1869,
+          "endYear": 1872,
+          "img": "british-empire/16.webp"
+        },
+        {
+          "startYear": 1878,
+          "endYear": 1883,
+          "img": "british-empire/17.webp"
+        },
+        {
+          "startYear": 1893,
+          "endYear": 1897,
+          "img": "british-empire/18.webp"
+        },
+        {
+          "startYear": 1897,
+          "endYear": 1898,
+          "img": "british-empire/19.webp"
+        },
+        {
+          "startYear": 1910,
+          "endYear": 1914,
+          "img": "british-empire/20.webp"
+        },
+        {
+          "startYear": 1916,
+          "endYear": 1919,
+          "img": "british-empire/21.webp"
+        },
+        {
+          "startYear": 1925,
+          "endYear": 1929,
+          "img": "british-empire/22.webp"
+        },
+        {
+          "startYear": 1935,
+          "endYear": 1938,
+          "img": "british-empire/23.webp"
+        },
+        {
+          "startYear": 1943,
+          "endYear": 1945,
+          "img": "british-empire/24.webp"
+        },
+        {
+          "startYear": 1952,
+          "endYear": 1955,
+          "img": "british-empire/25.webp"
+        },
+        {
+          "startYear": 1959,
+          "endYear": 1960,
+          "img": "british-empire/26.webp"
+        },
+        {
+          "startYear": 1971,
+          "endYear": 1973,
+          "img": "british-empire/27.webp"
+        },
+        {
+          "startYear": 1987,
+          "endYear": 1997,
+          "img": "british-empire/28.webp"
+        }
+      ]
+    },
+    {
+      "entityId": "french-colonial-empire",
+      "displayName": "French Colonial Empire",
+      "snapshots": [
+        {
+          "startYear": 1535,
+          "endYear": 1555,
+          "img": "french-colonial-empire/0.webp"
+        },
+        {
+          "startYear": 1555,
+          "endYear": 1564,
+          "img": "french-colonial-empire/1.webp"
+        },
+        {
+          "startYear": 1567,
+          "endYear": 1603,
+          "img": "french-colonial-empire/2.webp"
+        },
+        {
+          "startYear": 1615,
+          "endYear": 1626,
+          "img": "french-colonial-empire/3.webp"
+        },
+        {
+          "startYear": 1627,
+          "endYear": 1635,
+          "img": "french-colonial-empire/4.webp"
+        },
+        {
+          "startYear": 1651,
+          "endYear": 1659,
+          "img": "french-colonial-empire/5.webp"
+        },
+        {
+          "startYear": 1667,
+          "endYear": 1673,
+          "img": "french-colonial-empire/6.webp"
+        },
+        {
+          "startYear": 1674,
+          "endYear": 1682,
+          "img": "french-colonial-empire/7.webp"
+        },
+        {
+          "startYear": 1702,
+          "endYear": 1713,
+          "img": "french-colonial-empire/8.webp"
+        },
+        {
+          "startYear": 1719,
+          "endYear": 1724,
+          "img": "french-colonial-empire/9.webp"
+        },
+        {
+          "startYear": 1735,
+          "endYear": 1744,
+          "img": "french-colonial-empire/10.webp"
+        },
+        {
+          "startYear": 1752,
+          "endYear": 1759,
+          "img": "french-colonial-empire/11.webp"
+        },
+        {
+          "startYear": 1763,
+          "endYear": 1772,
+          "img": "french-colonial-empire/12.webp"
+        },
+        {
+          "startYear": 1788,
+          "endYear": 1793,
+          "img": "french-colonial-empire/13.webp"
+        },
+        {
+          "startYear": 1804,
+          "endYear": 1809,
+          "img": "french-colonial-empire/14.webp"
+        },
+        {
+          "startYear": 1818,
+          "endYear": 1830,
+          "img": "french-colonial-empire/15.webp"
+        },
+        {
+          "startYear": 1830,
+          "endYear": 1840,
+          "img": "french-colonial-empire/16.webp"
+        },
+        {
+          "startYear": 1843,
+          "endYear": 1848,
+          "img": "french-colonial-empire/17.webp"
+        },
+        {
+          "startYear": 1862,
+          "endYear": 1870,
+          "img": "french-colonial-empire/18.webp"
+        },
+        {
+          "startYear": 1878,
+          "endYear": 1880,
+          "img": "french-colonial-empire/19.webp"
+        },
+        {
+          "startYear": 1900,
+          "endYear": 1904,
+          "img": "french-colonial-empire/20.webp"
+        },
+        {
+          "startYear": 1926,
+          "endYear": 1938,
+          "img": "french-colonial-empire/21.webp"
+        },
+        {
+          "startYear": 1938,
+          "endYear": 1942,
+          "img": "french-colonial-empire/22.webp"
+        },
+        {
+          "startYear": 1946,
+          "endYear": 1951,
+          "img": "french-colonial-empire/23.webp"
+        }
+      ]
+    },
+    {
+      "entityId": "spanish-empire",
+      "displayName": "Spanish Empire",
+      "snapshots": [
+        {
+          "startYear": 1496,
+          "endYear": 1499,
+          "img": "spanish-empire/0.webp"
+        },
+        {
+          "startYear": 1513,
+          "endYear": 1519,
+          "img": "spanish-empire/1.webp"
+        },
+        {
+          "startYear": 1525,
+          "endYear": 1527,
+          "img": "spanish-empire/2.webp"
+        },
+        {
+          "startYear": 1557,
+          "endYear": 1562,
+          "img": "spanish-empire/3.webp"
+        },
+        {
+          "startYear": 1565,
+          "endYear": 1569,
+          "img": "spanish-empire/4.webp"
+        },
+        {
+          "startYear": 1589,
+          "endYear": 1598,
+          "img": "spanish-empire/5.webp"
+        },
+        {
+          "startYear": 1598,
+          "endYear": 1606,
+          "img": "spanish-empire/6.webp"
+        },
+        {
+          "startYear": 1614,
+          "endYear": 1621,
+          "img": "spanish-empire/7.webp"
+        },
+        {
+          "startYear": 1627,
+          "endYear": 1634,
+          "img": "spanish-empire/8.webp"
+        },
+        {
+          "startYear": 1643,
+          "endYear": 1650,
+          "img": "spanish-empire/9.webp"
+        },
+        {
+          "startYear": 1668,
+          "endYear": 1673,
+          "img": "spanish-empire/10.webp"
+        },
+        {
+          "startYear": 1681,
+          "endYear": 1689,
+          "img": "spanish-empire/11.webp"
+        },
+        {
+          "startYear": 1697,
+          "endYear": 1704,
+          "img": "spanish-empire/12.webp"
+        },
+        {
+          "startYear": 1718,
+          "endYear": 1732,
+          "img": "spanish-empire/13.webp"
+        },
+        {
+          "startYear": 1732,
+          "endYear": 1742,
+          "img": "spanish-empire/14.webp"
+        },
+        {
+          "startYear": 1749,
+          "endYear": 1762,
+          "img": "spanish-empire/15.webp"
+        },
+        {
+          "startYear": 1767,
+          "endYear": 1777,
+          "img": "spanish-empire/16.webp"
+        },
+        {
+          "startYear": 1778,
+          "endYear": 1780,
+          "img": "spanish-empire/17.webp"
+        },
+        {
+          "startYear": 1786,
+          "endYear": 1792,
+          "img": "spanish-empire/18.webp"
+        },
+        {
+          "startYear": 1803,
+          "endYear": 1809,
+          "img": "spanish-empire/19.webp"
+        },
+        {
+          "startYear": 1826,
+          "endYear": 1844,
+          "img": "spanish-empire/20.webp"
+        },
+        {
+          "startYear": 1844,
+          "endYear": 1848,
+          "img": "spanish-empire/21.webp"
+        },
+        {
+          "startYear": 1866,
+          "endYear": 1884,
+          "img": "spanish-empire/22.webp"
+        },
+        {
+          "startYear": 1885,
+          "endYear": 1898,
+          "img": "spanish-empire/23.webp"
+        }
+      ]
+    }
+  ]
+}

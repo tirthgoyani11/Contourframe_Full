@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect x="12" y="78" width="176" height="44" rx="6" fill="#E5B84B" transform-origin="12 100">
+    <animateTransform attributeName="transform" type="scale" dur="2.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.4;0.86;0.96;1" values="0 1;1 1;1 1;0 1;0 1" keySplines="0.4 0 0.2 1;0 0 1 1;0.4 0 1 1;0 0 1 1"/>
+  </rect>
+</svg>

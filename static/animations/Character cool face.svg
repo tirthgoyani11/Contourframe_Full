@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <g><animateTransform attributeName="transform" type="translate" dur="2.2s" repeatCount="indefinite" values="0 0;0 5;0 0;0 0" keyTimes="0;0.15;0.3;1" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0 0 1 1"/>
+  <clipPath id="character-cool-face-shades"><path d="M38 78 L 98 78 Q 98 112 68 112 Q 38 112 38 78 Z"/><path d="M102 78 L 162 78 Q 162 112 132 112 Q 102 112 102 78 Z"/></clipPath>
+  <path d="M30 80 L 170 80" stroke="#14161C" stroke-width="9" stroke-linecap="round"/>
+  <path d="M38 78 L 98 78 Q 98 112 68 112 Q 38 112 38 78 Z" fill="#14161C"/><path d="M102 78 L 162 78 Q 162 112 132 112 Q 102 112 102 78 Z" fill="#14161C"/>
+  <g clip-path="url(#character-cool-face-shades)"><g><animateTransform attributeName="transform" type="translate" dur="2.2s" repeatCount="indefinite" values="-140 0;-140 0;150 0;150 0" keyTimes="0;0.4;0.7;1"/><path d="M40 70 L 62 70 L 40 120 L 18 120 Z" fill="#FFFFFF" opacity="0.55"/></g></g>
+  <path d="M70 150 Q 104 166 132 140" fill="none" stroke="#14161C" stroke-width="9" stroke-linecap="round"/>
+  <path d="M128 136 L 138 144" stroke="#14161C" stroke-width="7" stroke-linecap="round"/>
+  </g>
+</svg>

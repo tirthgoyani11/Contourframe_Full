@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- The impact burst as a STICKER: a SMIL twin of paintImpactBurst
+       (overlayRenderer), so the explosion the projectile fires is also
+       placeable from the sticker library's Effects group. Every animation is
+       dur 2.4s / repeatCount indefinite with keyTimes doing the staggering —
+       NO begin offsets, the army.svg lesson: begin makes the loop period
+       misread and the bake samples the moving part at a crawl. -->
+  <defs>
+    <radialGradient id="fireG">
+      <stop offset="0" stop-color="#FFF1EC"/>
+      <stop offset="0.3" stop-color="#FFA495"/>
+      <stop offset="0.65" stop-color="#EC5846" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#D03C2E" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g transform="translate(100 100)">
+    <!-- smoke ring: eight cauliflower clusters expanding around a clear middle -->
+    <g opacity="0">
+      <animateTransform attributeName="transform" type="translate" dur="2.4s" repeatCount="indefinite" values="0 0;0 0;40 0;52 0;52 0" keyTimes="0;0.05;0.5;0.94;1"/>
+      <animate attributeName="opacity" dur="2.4s" repeatCount="indefinite" values="0;0;0.9;0.8;0;0" keyTimes="0;0.05;0.13;0.72;0.93;1"/>
+      <circle r="15" fill="#B9B5AF"/><circle cx="11" cy="-6" r="9" fill="#C8C4BE"/><circle cx="-10" cy="7" r="8" fill="#AFABA5"/><circle cx="19" cy="7" r="4" fill="#D6D2CC"/>
+    </g>
+    <g opacity="0">
+      <animateTransform attributeName="transform" type="translate" dur="2.4s" repeatCount="indefinite" values="0 0;0 0;33 33;41 41;41 41" keyTimes="0;0.09;0.5;0.94;1"/>
+      <animate attributeName="opacity" dur="2.4s" repeatCount="indefinite" values="0;0;0.85;0.78;0;0" keyTimes="0;0.09;0.17;0.72;0.93;1"/>
+      <circle r="13" fill="#B4B0AA"/><circle cx="-9" cy="-7" r="8" fill="#C4C0BA"/><circle cx="10" cy="8" r="7" fill="#ABA7A1"/>
+    </g>
+    <g opacity="0">
+      <animateTransform attributeName="transform" type="translate" dur="2.4s" repeatCount="indefinite" values="0 0;0 0;0 47;0 59;0 59" keyTimes="0;0.13;0.5;0.94;1"/>
+      <animate attributeName="opacity" dur="2.4s" repeatCount="indefinite" values="0;0;0.9;0.8;0;0" keyTimes="0;0.13;0.21;0.72;0.93;1"/>
+      <circle r="16" fill="#BDB9B3"/><circle cx="12" cy="5" r="9" fill="#CCC8C2"/><circle cx="-12" cy="-4" r="8" fill="#B0ACA6"/><circle cx="-19" cy="9" r="4.5" fill="#D6D2CC"/>
+    </g>
+    <g opacity="0">
+      <animateTransform attributeName="transform" type="translate" dur="2.4s" repeatCount="indefinite" values="0 0;0 0;-31 31;-39 39;-39 39" keyTimes="0;0.07;0.5;0.94;1"/>
+      <animate attributeName="opacity" dur="2.4s" repeatCount="indefinite" values="0;0;0.85;0.76;0;0" keyTimes="0;0.07;0.15;0.72;0.93;1"/>
+      <circle r="12" fill="#B7B3AD"/><circle cx="8" cy="-8" r="7" fill="#C6C2BC"/><circle cx="-9" cy="6" r="6" fill="#AEAAA4"/>
+    </g>
+    <g opacity="0">
+      <animateTransform attributeName="transform" type="translate" dur="2.4s" repeatCount="indefinite" values="0 0;0 0;-44 0;-56 0;-56 0" keyTimes="0;0.11;0.5;0.94;1"/>
+      <animate attributeName="opacity" dur="2.4s" repeatCount="indefinite" values="0;0;0.9;0.8;0;0" keyTimes="0;0.11;0.19;0.72;0.93;1"/>
+      <circle r="15" fill="#BBB7B1"/><circle cx="-11" cy="-6" r="9" fill="#CAC6C0"/><circle cx="10" cy="7" r="8" fill="#B2AEA8"/><circle cx="-19" cy="-8" r="4" fill="#D6D2CC"/>
+    </g>
+    <g opacity="0">
+      <animateTransform attributeName="transform" type="translate" dur="2.4s" repeatCount="indefinite" values="0 0;0 0;-33 -33;-41 -41;-41 -41" keyTimes="0;0.15;0.5;0.94;1"/>
+      <animate attributeName="opacity" dur="2.4s" repeatCount="indefinite" values="0;0;0.85;0.77;0;0" keyTimes="0;0.15;0.23;0.72;0.93;1"/>
+      <circle r="13" fill="#B5B1AB"/><circle cx="9" cy="-7" r="8" fill="#C5C1BB"/><circle cx="-10" cy="7" r="7" fill="#ACA8A2"/>
+    </g>
+    <g opacity="0">
+      <animateTransform attributeName="transform" type="translate" dur="2.4s" repeatCount="indefinite" values="0 0;0 0;0 -42;0 -53;0 -53" keyTimes="0;0.06;0.5;0.94;1"/>
+      <animate attributeName="opacity" dur="2.4s" repeatCount="indefinite" values="0;0;0.9;0.8;0;0" keyTimes="0;0.06;0.14;0.72;0.93;1"/>
+      <circle r="15" fill="#BFBBB5"/><circle cx="-12" cy="4" r="9" fill="#CECAC4"/><circle cx="11" cy="-5" r="8" fill="#B1ADA7"/><circle cx="18" cy="-9" r="4.5" fill="#D8D4CE"/>
+    </g>
+    <g opacity="0">
+      <animateTransform attributeName="transform" type="translate" dur="2.4s" repeatCount="indefinite" values="0 0;0 0;32 -32;40 -40;40 -40" keyTimes="0;0.1;0.5;0.94;1"/>
+      <animate attributeName="opacity" dur="2.4s" repeatCount="indefinite" values="0;0;0.85;0.78;0;0" keyTimes="0;0.1;0.18;0.72;0.93;1"/>
+      <circle r="12" fill="#B6B2AC"/><circle cx="8" cy="8" r="7" fill="#C7C3BD"/><circle cx="-9" cy="-6" r="6" fill="#ADA9A3"/>
+    </g>
+    <!-- the fireball, burning out inside the opening ring -->
+    <circle r="4" fill="url(#fireG)" opacity="0">
+      <animate attributeName="r" dur="2.4s" repeatCount="indefinite" values="4;44;52;52" keyTimes="0;0.16;0.32;1"/>
+      <animate attributeName="opacity" dur="2.4s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0;0.05;0.2;0.42;1"/>
+    </circle>
+    <!-- the first-frame flash -->
+    <circle r="10" fill="#FFF3EC" opacity="0">
+      <animate attributeName="r" dur="2.4s" repeatCount="indefinite" values="8;30;42;42" keyTimes="0;0.06;0.14;1"/>
+      <animate attributeName="opacity" dur="2.4s" repeatCount="indefinite" values="0.95;0.95;0;0" keyTimes="0;0.04;0.13;1"/>
+    </circle>
+  </g>
+</svg>

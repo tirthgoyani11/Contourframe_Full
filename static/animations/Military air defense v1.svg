@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <linearGradient id="ol" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#98a374"/><stop offset=".5" stop-color="#6b774b"/><stop offset="1" stop-color="#434c30"/></linearGradient>
+    <linearGradient id="olL" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#adb886"/><stop offset=".6" stop-color="#7c8858"/><stop offset="1" stop-color="#55603b"/></linearGradient>
+    <linearGradient id="olD" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6c7650"/><stop offset="1" stop-color="#333a24"/></linearGradient>
+    <linearGradient id="tarp" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d6cba3"/><stop offset=".6" stop-color="#b0a57c"/><stop offset="1" stop-color="#857a55"/></linearGradient>
+    <linearGradient id="st" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c6ced5"/><stop offset=".5" stop-color="#8d98a2"/><stop offset="1" stop-color="#56616b"/></linearGradient>
+    <linearGradient id="stL" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#dfe5ea"/><stop offset="1" stop-color="#98a3ad"/></linearGradient>
+    <linearGradient id="stD" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#727c86"/><stop offset="1" stop-color="#333b43"/></linearGradient>
+    <linearGradient id="dk" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4a4d50"/><stop offset="1" stop-color="#17191a"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c4e6f8"/><stop offset=".5" stop-color="#5b9cc4"/><stop offset="1" stop-color="#1f4c6b"/></linearGradient>
+    <radialGradient id="tire" cx=".4" cy=".35" r=".75"><stop offset="0" stop-color="#5b5e62"/><stop offset=".7" stop-color="#2a2c2e"/><stop offset="1" stop-color="#121314"/></radialGradient>
+    <radialGradient id="flame"><stop offset="0" stop-color="#fff8d0"/><stop offset=".4" stop-color="#ffc233"/><stop offset=".8" stop-color="#f0621a"/><stop offset="1" stop-color="#c8320a" stop-opacity="0"/></radialGradient>
+    <radialGradient id="sh"><stop offset="0" stop-color="#000" stop-opacity=".4"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e8f6ff" stop-opacity=".9"/><stop offset="1" stop-color="#9fd0ee" stop-opacity="0"/></linearGradient>
+  </defs>
+  <ellipse cx="128" cy="212" rx="108" ry="11" fill="url(#sh)"/>
+  <rect x="22" y="164" width="220" height="13" rx="4" fill="url(#dk)"/>
+  <rect x="26" y="148" width="150" height="18" rx="3" fill="url(#olD)"/>
+  <rect x="40" y="44" width="22" height="108" rx="6" fill="url(#ol)"/><rect x="43" y="48" width="5" height="98" rx="2.5" fill="#d0d9aa" opacity=".4"/><rect x="40" y="62" width="22" height="5" fill="#333a24"/><rect x="40" y="126" width="22" height="5" fill="#333a24"/>
+  <rect x="68" y="44" width="22" height="108" rx="6" fill="url(#ol)"/><rect x="71" y="48" width="5" height="98" rx="2.5" fill="#d0d9aa" opacity=".4"/><rect x="68" y="62" width="22" height="5" fill="#333a24"/><rect x="68" y="126" width="22" height="5" fill="#333a24"/>
+  <rect x="96" y="44" width="22" height="108" rx="6" fill="url(#ol)"/><rect x="99" y="48" width="5" height="98" rx="2.5" fill="#d0d9aa" opacity=".4"/><rect x="96" y="62" width="22" height="5" fill="#333a24"/><rect x="96" y="126" width="22" height="5" fill="#333a24"/>
+  <path d="M124 150 L140 120" stroke="#2c3122" stroke-width="7" stroke-linecap="round"/>
+  <rect x="134" y="112" width="34" height="38" rx="4" fill="url(#olD)"/>
+  <path d="M184 166 L184 118 Q184 108 196 108 L216 108 Q226 110 232 122 L238 140 L242 144 L242 166 Z" fill="url(#ol)"/>
+  <path d="M196 116 L214 116 Q220 118 224 126 L228 138 L196 138 Z" fill="url(#glass)"/>
+  <circle cx="240" cy="152" r="4" fill="#ffe9a8"/>
+  <circle cx="54" cy="188" r="20" fill="url(#tire)"/><circle cx="54" cy="188" r="9.6" fill="#7f8572"/><circle cx="54" cy="188" r="3.6" fill="#2b2e27"/>
+  <circle cx="98" cy="188" r="20" fill="url(#tire)"/><circle cx="98" cy="188" r="9.6" fill="#7f8572"/><circle cx="98" cy="188" r="3.6" fill="#2b2e27"/>
+  <circle cx="170" cy="188" r="20" fill="url(#tire)"/><circle cx="170" cy="188" r="9.6" fill="#7f8572"/><circle cx="170" cy="188" r="3.6" fill="#2b2e27"/>
+  <circle cx="214" cy="188" r="20" fill="url(#tire)"/><circle cx="214" cy="188" r="9.6" fill="#7f8572"/><circle cx="214" cy="188" r="3.6" fill="#2b2e27"/>
+</svg>

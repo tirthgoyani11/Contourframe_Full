@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <g><animateTransform attributeName="transform" type="translate" dur="0.9s" repeatCount="indefinite" values="0 0;0 -5;0 0;0 -5;0 0" keyTimes="0;0.25;0.5;0.75;1"/>
+  <path d="M48 58.4 Q 68 48.4 86 48" fill="none" stroke="#14161C" stroke-width="8" stroke-linecap="round"/><path d="M152 58.4 Q 132 48.4 114 48" fill="none" stroke="#14161C" stroke-width="8" stroke-linecap="round"/>
+  <g transform="translate(68 92)"><g><path d="M-20 6 Q 0 -16 20 6" fill="none" stroke="#14161C" stroke-width="8" stroke-linecap="round"/></g></g>
+  <g transform="translate(132 92)"><g><path d="M-20 6 Q 0 -16 20 6" fill="none" stroke="#14161C" stroke-width="8" stroke-linecap="round"/></g></g>
+  <g transform="translate(40 104)" opacity="0"><animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;0.1;0.7;1"/><g><animateTransform attributeName="transform" type="translate" dur="0.9s" repeatCount="indefinite" values="0 0;-10 18;-16 46" keyTimes="0;0.5;1"/><path d="M0 -12 Q 9 2 0 8 Q -9 2 0 -12 Z" fill="#5CC8FF" stroke="#14161C" stroke-width="2.5"/></g></g>
+  <g transform="translate(160 104)" opacity="0"><animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;0.1;0.7;1"/><g><animateTransform attributeName="transform" type="translate" dur="0.9s" repeatCount="indefinite" values="0 0;10 18;16 46" keyTimes="0;0.5;1"/><path d="M0 -12 Q 9 2 0 8 Q -9 2 0 -12 Z" fill="#5CC8FF" stroke="#14161C" stroke-width="2.5"/></g></g>
+  <g transform="translate(100 140)"><g><animateTransform attributeName="transform" type="scale" dur="0.9s" repeatCount="indefinite" values="1 1;1.04 0.86;1 1;1.04 0.86;1 1" keyTimes="0;0.25;0.5;0.75;1"/><path d="M-46 -14 Q 0 -10 46 -14 Q 40 40 0 42 Q -40 40 -46 -14 Z" fill="#14161C" stroke="#14161C" stroke-width="5" stroke-linejoin="round"/><path d="M-36 -10 Q 0 -7 36 -10 L 34 0 Q 0 3 -34 0 Z" fill="#FFFFFF"/><path d="M-22 30 Q 0 14 22 30 Q 12 39 0 39 Q -12 39 -22 30 Z" fill="#E8475A"/></g></g>
+  </g>
+</svg>

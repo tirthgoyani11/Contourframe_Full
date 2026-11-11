@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <g transform="translate(100 100)">
+    <text x="0" y="0" text-anchor="middle" dominant-baseline="central" font-family="Arial Black, Impact, sans-serif" font-weight="900" font-size="170" fill="#E5B84B">?
+      <animateTransform attributeName="transform" type="scale" additive="sum" dur="2.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0;0.14;0.24;0.86;0.94;1" values="0;0;1.22;1;1;0;0" keySplines="0 0 1 1;0.2 0.8 0.3 1.2;0.4 0 0.2 1;0 0 1 1;0.4 0 1 1;0 0 1 1"/>
+      <animateTransform attributeName="transform" type="rotate" additive="sum" dur="2.4s" repeatCount="indefinite" keyTimes="0;0.24;0.3;0.36;0.42;1" values="-8;-8;6;-3;0;0"/>
+    </text>
+  </g>
+</svg>

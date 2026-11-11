@@ -1,0 +1,1106 @@
+[
+  {
+    "id": "anm-arrow-1",
+    "name": "Arrow 1",
+    "category": "markers",
+    "url": "/static/animations/Arrow%201.svg",
+    "file": "Arrow 1.svg",
+    "duration": 0.042
+  },
+  {
+    "id": "anm-arrow-right-hand-drawn",
+    "name": "Arrow right hand drawn",
+    "category": "markers",
+    "url": "/static/animations/Arrow%20right%20-%20hand%20drawn.svg",
+    "file": "Arrow right - hand drawn.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-available-24-hours",
+    "name": "Available 24 Hours",
+    "category": "markers",
+    "url": "/static/animations/Available%2024%20Hours.svg",
+    "file": "Available 24 Hours.svg",
+    "duration": 2.033
+  },
+  {
+    "id": "anm-bulb-transparent",
+    "name": "Bulb Transparent",
+    "category": "markers",
+    "url": "/static/animations/Bulb%20Transparent.svg",
+    "file": "Bulb Transparent.svg",
+    "duration": 2.169
+  },
+  {
+    "id": "anm-clock-lottie-animation",
+    "name": "Clock Lottie Animation",
+    "category": "markers",
+    "url": "/static/animations/Clock%20Lottie%20Animation.svg",
+    "file": "Clock Lottie Animation.svg",
+    "duration": 6.517
+  },
+  {
+    "id": "anm-error",
+    "name": "Error",
+    "category": "markers",
+    "url": "/static/animations/error.svg",
+    "file": "error.svg",
+    "duration": 1.52
+  },
+  {
+    "id": "anm-error-animation",
+    "name": "Error animation",
+    "category": "markers",
+    "url": "/static/animations/Error%20animation.svg",
+    "file": "Error animation.svg",
+    "duration": 0.875
+  },
+  {
+    "id": "anm-failure-error-icon",
+    "name": "Failure error icon",
+    "category": "markers",
+    "url": "/static/animations/Failure%20error%20icon.svg",
+    "file": "Failure error icon.svg",
+    "duration": 1.367
+  },
+  {
+    "id": "anm-idea",
+    "name": "Idea",
+    "category": "markers",
+    "url": "/static/animations/Idea.svg",
+    "file": "Idea.svg",
+    "duration": 3.0
+  },
+  {
+    "id": "anm-idea-1",
+    "name": "Idea (1)",
+    "category": "markers",
+    "url": "/static/animations/Idea%20%281%29.svg",
+    "file": "Idea (1).svg",
+    "duration": 2.002
+  },
+  {
+    "id": "anm-location-icon-animation",
+    "name": "Location Icon Animation",
+    "category": "markers",
+    "url": "/static/animations/Location%20Icon%20Animation.svg",
+    "file": "Location Icon Animation.svg",
+    "duration": 5.0
+  },
+  {
+    "id": "anm-location-lottie-animation",
+    "name": "Location Lottie Animation",
+    "category": "markers",
+    "url": "/static/animations/Location%20Lottie%20Animation.svg",
+    "file": "Location Lottie Animation.svg",
+    "duration": 2.0
+  },
+  {
+    "id": "anm-notification-bell",
+    "name": "Notification bell",
+    "category": "markers",
+    "url": "/static/animations/Notification%20bell.svg",
+    "file": "Notification bell.svg",
+    "duration": 1.633
+  },
+  {
+    "id": "anm-pulse",
+    "name": "Pulse",
+    "category": "markers",
+    "url": "/static/animations/pulse.svg",
+    "file": "pulse.svg",
+    "duration": 4.567
+  },
+  {
+    "id": "anm-graphic-check-mark",
+    "name": "Check mark",
+    "category": "graphics",
+    "url": "/static/animations/Graphic%20check%20mark.svg",
+    "file": "Graphic check mark.svg",
+    "duration": 2.6
+  },
+  {
+    "id": "anm-graphic-circle-scribble",
+    "name": "Circle scribble",
+    "category": "graphics",
+    "url": "/static/animations/Graphic%20circle%20scribble.svg",
+    "file": "Graphic circle scribble.svg",
+    "duration": 2.6
+  },
+  {
+    "id": "anm-graphic-confetti",
+    "name": "Confetti",
+    "category": "graphics",
+    "url": "/static/animations/Graphic%20confetti.svg",
+    "file": "Graphic confetti.svg",
+    "duration": 2.2
+  },
+  {
+    "id": "anm-graphic-cross-mark",
+    "name": "Cross mark",
+    "category": "graphics",
+    "url": "/static/animations/Graphic%20cross%20mark.svg",
+    "file": "Graphic cross mark.svg",
+    "duration": 2.6
+  },
+  {
+    "id": "anm-graphic-curved-arrow",
+    "name": "Curved arrow",
+    "category": "graphics",
+    "url": "/static/animations/Graphic%20curved%20arrow.svg",
+    "file": "Graphic curved arrow.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-graphic-divider",
+    "name": "Divider",
+    "category": "graphics",
+    "url": "/static/animations/Graphic%20divider.svg",
+    "file": "Graphic divider.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-graphic-dotted-curved-arrow",
+    "name": "Dotted curved arrow",
+    "category": "graphics",
+    "url": "/static/animations/Graphic%20dotted%20curved%20arrow.svg",
+    "file": "Graphic dotted curved arrow.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-graphic-exclamation",
+    "name": "Exclamation",
+    "category": "graphics",
+    "url": "/static/animations/Graphic%20exclamation.svg",
+    "file": "Graphic exclamation.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-graphic-highlight-bar",
+    "name": "Highlight bar",
+    "category": "graphics",
+    "url": "/static/animations/Graphic%20highlight%20bar.svg",
+    "file": "Graphic highlight bar.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-graphic-loading-dots",
+    "name": "Loading dots",
+    "category": "graphics",
+    "url": "/static/animations/Graphic%20loading%20dots.svg",
+    "file": "Graphic loading dots.svg",
+    "duration": 1.2
+  },
+  {
+    "id": "anm-graphic-question-mark",
+    "name": "Question mark",
+    "category": "graphics",
+    "url": "/static/animations/Graphic%20question%20mark.svg",
+    "file": "Graphic question mark.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-graphic-quote-marks",
+    "name": "Quote marks",
+    "category": "graphics",
+    "url": "/static/animations/Graphic%20quote%20marks.svg",
+    "file": "Graphic quote marks.svg",
+    "duration": 2.6
+  },
+  {
+    "id": "anm-graphic-sparkles",
+    "name": "Sparkles",
+    "category": "graphics",
+    "url": "/static/animations/Graphic%20sparkles.svg",
+    "file": "Graphic sparkles.svg",
+    "duration": 2.0
+  },
+  {
+    "id": "anm-graphic-speech-bubble",
+    "name": "Speech bubble",
+    "category": "graphics",
+    "url": "/static/animations/Graphic%20speech%20bubble.svg",
+    "file": "Graphic speech bubble.svg",
+    "duration": 2.6
+  },
+  {
+    "id": "anm-graphic-starburst",
+    "name": "Starburst",
+    "category": "graphics",
+    "url": "/static/animations/Graphic%20starburst.svg",
+    "file": "Graphic starburst.svg",
+    "duration": 2.2
+  },
+  {
+    "id": "anm-graphic-underline",
+    "name": "Underline",
+    "category": "graphics",
+    "url": "/static/animations/Graphic%20underline.svg",
+    "file": "Graphic underline.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-character-anger-mark",
+    "name": "Anger mark",
+    "category": "characters",
+    "url": "/static/animations/Character%20anger%20mark.svg",
+    "file": "Character anger mark.svg",
+    "duration": 0.9
+  },
+  {
+    "id": "anm-character-angry-face",
+    "name": "Angry face",
+    "category": "characters",
+    "url": "/static/animations/Character%20angry%20face%20v3.svg",
+    "file": "Character angry face v3.svg",
+    "duration": 3.0
+  },
+  {
+    "id": "anm-character-cool-face",
+    "name": "Cool face",
+    "category": "characters",
+    "url": "/static/animations/Character%20cool%20face.svg",
+    "file": "Character cool face.svg",
+    "duration": 2.2
+  },
+  {
+    "id": "anm-character-crying-face",
+    "name": "Crying face",
+    "category": "characters",
+    "url": "/static/animations/Character%20crying%20face.svg",
+    "file": "Character crying face.svg",
+    "duration": 1.8
+  },
+  {
+    "id": "anm-character-dizzy-face",
+    "name": "Dizzy face",
+    "category": "characters",
+    "url": "/static/animations/Character%20dizzy%20face.svg",
+    "file": "Character dizzy face.svg",
+    "duration": 1.6
+  },
+  {
+    "id": "anm-character-flexing-arm",
+    "name": "Flexing arm",
+    "category": "characters",
+    "url": "/static/animations/Character%20flexing%20arm%20v2.svg",
+    "file": "Character flexing arm v2.svg",
+    "duration": 1.1
+  },
+  {
+    "id": "anm-character-laughing-face",
+    "name": "Laughing face",
+    "category": "characters",
+    "url": "/static/animations/Character%20laughing%20face.svg",
+    "file": "Character laughing face.svg",
+    "duration": 0.9
+  },
+  {
+    "id": "anm-character-love-face",
+    "name": "Love face",
+    "category": "characters",
+    "url": "/static/animations/Character%20love%20face.svg",
+    "file": "Character love face.svg",
+    "duration": 1.0
+  },
+  {
+    "id": "anm-character-pointing-hand",
+    "name": "Pointing hand",
+    "category": "characters",
+    "url": "/static/animations/Character%20pointing%20hand.svg",
+    "file": "Character pointing hand.svg",
+    "duration": 1.1
+  },
+  {
+    "id": "anm-character-punch",
+    "name": "Punch",
+    "category": "characters",
+    "url": "/static/animations/Character%20punch.svg",
+    "file": "Character punch.svg",
+    "duration": 1.4
+  },
+  {
+    "id": "anm-character-scared-face",
+    "name": "Scared face",
+    "category": "characters",
+    "url": "/static/animations/Character%20scared%20face.svg",
+    "file": "Character scared face.svg",
+    "duration": 1.4
+  },
+  {
+    "id": "anm-character-shocked-face",
+    "name": "Shocked face",
+    "category": "characters",
+    "url": "/static/animations/Character%20shocked%20face.svg",
+    "file": "Character shocked face.svg",
+    "duration": 1.8
+  },
+  {
+    "id": "anm-character-sleepy-face",
+    "name": "Sleepy face",
+    "category": "characters",
+    "url": "/static/animations/Character%20sleepy%20face.svg",
+    "file": "Character sleepy face.svg",
+    "duration": 3.0
+  },
+  {
+    "id": "anm-character-smiling-face",
+    "name": "Smiling face",
+    "category": "characters",
+    "url": "/static/animations/Character%20smiling%20face.svg",
+    "file": "Character smiling face.svg",
+    "duration": 2.0
+  },
+  {
+    "id": "anm-character-smug-face",
+    "name": "Smug face",
+    "category": "characters",
+    "url": "/static/animations/Character%20smug%20face.svg",
+    "file": "Character smug face.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-character-steam-puffs",
+    "name": "Steam puffs",
+    "category": "characters",
+    "url": "/static/animations/Character%20steam%20puffs.svg",
+    "file": "Character steam puffs.svg",
+    "duration": 1.4
+  },
+  {
+    "id": "anm-character-sweat-drop",
+    "name": "Sweat drop",
+    "category": "characters",
+    "url": "/static/animations/Character%20sweat%20drop.svg",
+    "file": "Character sweat drop.svg",
+    "duration": 1.6
+  },
+  {
+    "id": "anm-character-thumbs-down",
+    "name": "Thumbs down",
+    "category": "characters",
+    "url": "/static/animations/Character%20thumbs%20down.svg",
+    "file": "Character thumbs down.svg",
+    "duration": 1.6
+  },
+  {
+    "id": "anm-character-thumbs-up",
+    "name": "Thumbs up",
+    "category": "characters",
+    "url": "/static/animations/Character%20thumbs%20up.svg",
+    "file": "Character thumbs up.svg",
+    "duration": 1.6
+  },
+  {
+    "id": "anm-character-waving-hand",
+    "name": "Waving hand",
+    "category": "characters",
+    "url": "/static/animations/Character%20waving%20hand.svg",
+    "file": "Character waving hand.svg",
+    "duration": 1.2
+  },
+  {
+    "id": "anm-weather-cloud",
+    "name": "Cloud",
+    "category": "weather",
+    "url": "/static/animations/Weather%20cloud%20v2.svg",
+    "file": "Weather cloud v2.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-weather-rain",
+    "name": "Rain",
+    "category": "weather",
+    "url": "/static/animations/Weather%20rain%20v2.svg",
+    "file": "Weather rain v2.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-weather-snow",
+    "name": "Snow",
+    "category": "weather",
+    "url": "/static/animations/Weather%20snow%20v2.svg",
+    "file": "Weather snow v2.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-weather-sun",
+    "name": "Sun",
+    "category": "weather",
+    "url": "/static/animations/Weather%20sun%20v2.svg",
+    "file": "Weather sun v2.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-weather-sun-and-cloud",
+    "name": "Sun and cloud",
+    "category": "weather",
+    "url": "/static/animations/Weather%20sun%20and%20cloud%20v2.svg",
+    "file": "Weather sun and cloud v2.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-military-air-defense",
+    "name": "Air defense",
+    "category": "military",
+    "url": "/static/animations/Military%20air%20defense%20v1.svg",
+    "file": "Military air defense v1.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-military-armored-vehicle",
+    "name": "Armored vehicle",
+    "category": "military",
+    "url": "/static/animations/Military%20armored%20vehicle%20v1.svg",
+    "file": "Military armored vehicle v1.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-military-attack-helicopter",
+    "name": "Attack helicopter",
+    "category": "military",
+    "url": "/static/animations/Military%20attack%20helicopter%20v1.svg",
+    "file": "Military attack helicopter v1.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-military-ballistic-missile",
+    "name": "Ballistic missile",
+    "category": "military",
+    "url": "/static/animations/Military%20ballistic%20missile%20v1.svg",
+    "file": "Military ballistic missile v1.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-military-combat-drone",
+    "name": "Combat drone",
+    "category": "military",
+    "url": "/static/animations/Military%20combat%20drone%20v1.svg",
+    "file": "Military combat drone v1.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-military-fighter-jet",
+    "name": "Fighter jet",
+    "category": "military",
+    "url": "/static/animations/Military%20fighter%20jet%20v1.svg",
+    "file": "Military fighter jet v1.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-military-frigate",
+    "name": "Frigate",
+    "category": "military",
+    "url": "/static/animations/Military%20frigate%20v1.svg",
+    "file": "Military frigate v1.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-military-patrol-boat",
+    "name": "Patrol boat",
+    "category": "military",
+    "url": "/static/animations/Military%20patrol%20boat%20v1.svg",
+    "file": "Military patrol boat v1.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-military-rocket-launcher",
+    "name": "Rocket launcher",
+    "category": "military",
+    "url": "/static/animations/Military%20rocket%20launcher%20v1.svg",
+    "file": "Military rocket launcher v1.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-military-soldier",
+    "name": "Soldier",
+    "category": "military",
+    "url": "/static/animations/Military%20soldier%20v1.svg",
+    "file": "Military soldier v1.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-military-submarine",
+    "name": "Submarine",
+    "category": "military",
+    "url": "/static/animations/Military%20submarine%20v1.svg",
+    "file": "Military submarine v1.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-military-tank",
+    "name": "Tank",
+    "category": "military",
+    "url": "/static/animations/Military%20tank%20v1.svg",
+    "file": "Military tank v1.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-military-truck",
+    "name": "Truck",
+    "category": "military",
+    "url": "/static/animations/Military%20truck%20v1.svg",
+    "file": "Military truck v1.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-military-warship",
+    "name": "Warship",
+    "category": "military",
+    "url": "/static/animations/Military%20warship%20v1.svg",
+    "file": "Military warship v1.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-animated-fire",
+    "name": "Animated fire",
+    "category": "effects",
+    "url": "/static/animations/Animated%20fire.svg",
+    "file": "Animated fire.svg",
+    "duration": 3.25
+  },
+  {
+    "id": "anm-explosions-2",
+    "name": "Explosions 2",
+    "category": "effects",
+    "url": "/static/animations/Explosions%202.svg",
+    "file": "Explosions 2.svg",
+    "duration": 1.017
+  },
+  {
+    "id": "anm-fire",
+    "name": "Fire",
+    "category": "effects",
+    "url": "/static/animations/Fire.svg",
+    "file": "Fire.svg",
+    "duration": 1.083
+  },
+  {
+    "id": "anm-fire-element-effect-animation",
+    "name": "Fire Element Effect Animation",
+    "category": "effects",
+    "url": "/static/animations/Fire%20Element%20Effect%20Animation.svg",
+    "file": "Fire Element Effect Animation.svg",
+    "duration": 1.333
+  },
+  {
+    "id": "anm-fire-flame",
+    "name": "Fire Flame",
+    "category": "effects",
+    "url": "/static/animations/Fire%20Flame.svg",
+    "file": "Fire Flame.svg",
+    "duration": 3.0
+  },
+  {
+    "id": "anm-fire-lottie-animation",
+    "name": "Fire Lottie Animation",
+    "category": "effects",
+    "url": "/static/animations/Fire%20Lottie%20Animation.svg",
+    "file": "Fire Lottie Animation.svg",
+    "duration": 0.5
+  },
+  {
+    "id": "anm-ground-dust-smoke",
+    "name": "Ground dust smoke",
+    "category": "effects",
+    "url": "/static/animations/Ground%20dust%20smoke.svg",
+    "file": "Ground dust smoke.svg",
+    "duration": 4.0
+  },
+  {
+    "id": "anm-ground-explosion",
+    "name": "Ground explosion",
+    "category": "effects",
+    "url": "/static/animations/Ground%20explosion%20v2.svg",
+    "file": "Ground explosion v2.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-ground-smoke",
+    "name": "Ground smoke",
+    "category": "effects",
+    "url": "/static/animations/Ground%20smoke.svg",
+    "file": "Ground smoke.svg",
+    "duration": 4.0
+  },
+  {
+    "id": "anm-ground-smoke-dark",
+    "name": "Ground smoke dark",
+    "category": "effects",
+    "url": "/static/animations/Ground%20smoke%20dark.svg",
+    "file": "Ground smoke dark.svg",
+    "duration": 4.0
+  },
+  {
+    "id": "anm-impact-explosion",
+    "name": "Impact explosion",
+    "category": "effects",
+    "url": "/static/animations/Impact%20explosion.svg",
+    "file": "Impact explosion.svg",
+    "duration": 2.4
+  },
+  {
+    "id": "anm-spark-lottie-animation",
+    "name": "Spark Lottie Animation",
+    "category": "effects",
+    "url": "/static/animations/Spark%20Lottie%20Animation.svg",
+    "file": "Spark Lottie Animation.svg",
+    "duration": 1.6
+  },
+  {
+    "id": "anm-aeroplane-flying",
+    "name": "Aeroplane Flying",
+    "category": "transport",
+    "url": "/static/animations/Aeroplane%20Flying.svg",
+    "file": "Aeroplane Flying.svg",
+    "duration": 3.0
+  },
+  {
+    "id": "anm-ak47",
+    "name": "AK47",
+    "category": "transport",
+    "url": "/static/animations/AK47.svg",
+    "file": "AK47.svg",
+    "duration": 0.683
+  },
+  {
+    "id": "anm-army",
+    "name": "Army",
+    "category": "transport",
+    "url": "/static/animations/army.svg",
+    "file": "army.svg",
+    "duration": 8.96
+  },
+  {
+    "id": "anm-car",
+    "name": "Car",
+    "category": "transport",
+    "url": "/static/animations/Car.svg",
+    "file": "Car.svg",
+    "duration": 2.135
+  },
+  {
+    "id": "anm-cycling",
+    "name": "Cycling",
+    "category": "transport",
+    "url": "/static/animations/Cycling.svg",
+    "file": "Cycling.svg",
+    "duration": 0.583
+  },
+  {
+    "id": "anm-paper-plane",
+    "name": "Paper plane",
+    "category": "transport",
+    "url": "/static/animations/Paper%20plane.svg",
+    "file": "Paper plane.svg",
+    "duration": 6.0
+  },
+  {
+    "id": "anm-sattelite",
+    "name": "Sattelite",
+    "category": "transport",
+    "url": "/static/animations/Sattelite.svg",
+    "file": "Sattelite.svg",
+    "duration": 2.0
+  },
+  {
+    "id": "anm-sattelite-lottie-json-animation",
+    "name": "Sattelite Lottie JSON animation",
+    "category": "transport",
+    "url": "/static/animations/Sattelite%20Lottie%20JSON%20animation.svg",
+    "file": "Sattelite Lottie JSON animation.svg",
+    "duration": 8.0
+  },
+  {
+    "id": "anm-vintage-car",
+    "name": "Vintage Car",
+    "category": "transport",
+    "url": "/static/animations/Vintage%20Car.svg",
+    "file": "Vintage Car.svg",
+    "duration": 2.302
+  },
+  {
+    "id": "anm-british-flag",
+    "name": "British Flag",
+    "category": "flags",
+    "url": "/static/animations/British%20Flag.svg",
+    "file": "British Flag.svg",
+    "duration": 2.76
+  },
+  {
+    "id": "anm-chinese-flag",
+    "name": "Chinese Flag",
+    "category": "flags",
+    "url": "/static/animations/Chinese%20Flag.svg",
+    "file": "Chinese Flag.svg",
+    "duration": 1.6
+  },
+  {
+    "id": "anm-indian-flag",
+    "name": "Indian Flag",
+    "category": "flags",
+    "url": "/static/animations/Indian%20Flag.svg",
+    "file": "Indian Flag.svg",
+    "duration": 2.04
+  },
+  {
+    "id": "anm-us-flag",
+    "name": "US Flag",
+    "category": "flags",
+    "url": "/static/animations/US%20Flag.svg",
+    "file": "US Flag.svg",
+    "duration": 2.12
+  },
+  {
+    "id": "anm-alert",
+    "name": "Alert",
+    "category": "symbols",
+    "url": "/static/animations/Alert.svg",
+    "file": "Alert.svg",
+    "duration": 2.669
+  },
+  {
+    "id": "anm-bitcoin",
+    "name": "Bitcoin",
+    "category": "symbols",
+    "url": "/static/animations/Bitcoin.svg",
+    "file": "Bitcoin.svg",
+    "duration": 1.367
+  },
+  {
+    "id": "anm-click",
+    "name": "Click",
+    "category": "symbols",
+    "url": "/static/animations/click.svg",
+    "file": "click.svg",
+    "duration": 1.5
+  },
+  {
+    "id": "anm-confetti",
+    "name": "CONFETTI",
+    "category": "symbols",
+    "url": "/static/animations/CONFETTI.svg",
+    "file": "CONFETTI.svg",
+    "duration": 5.0
+  },
+  {
+    "id": "anm-confetti-explode",
+    "name": "Confetti explode",
+    "category": "symbols",
+    "url": "/static/animations/Confetti%20explode.svg",
+    "file": "Confetti explode.svg",
+    "duration": 3.0
+  },
+  {
+    "id": "anm-connecting-people",
+    "name": "Connecting people",
+    "category": "symbols",
+    "url": "/static/animations/Connecting%20people.svg",
+    "file": "Connecting people.svg",
+    "duration": 3.462
+  },
+  {
+    "id": "anm-ethereum",
+    "name": "Ethereum",
+    "category": "symbols",
+    "url": "/static/animations/Ethereum.svg",
+    "file": "Ethereum.svg",
+    "duration": 1.367
+  },
+  {
+    "id": "anm-hand-tap",
+    "name": "Hand tap",
+    "category": "symbols",
+    "url": "/static/animations/Hand%20tap.svg",
+    "file": "Hand tap.svg",
+    "duration": 1.64
+  },
+  {
+    "id": "anm-helicopter",
+    "name": "Helicopter",
+    "category": "symbols",
+    "url": "/static/animations/Helicopter.svg",
+    "file": "Helicopter.svg",
+    "duration": 6.039
+  },
+  {
+    "id": "anm-instagram",
+    "name": "Instagram",
+    "category": "symbols",
+    "url": "/static/animations/Instagram.svg",
+    "file": "Instagram.svg",
+    "duration": 1.36
+  },
+  {
+    "id": "anm-linkedin-subtle",
+    "name": "Linkedin Subtle",
+    "category": "symbols",
+    "url": "/static/animations/Linkedin%20Subtle.svg",
+    "file": "Linkedin Subtle.svg",
+    "duration": 1.36
+  },
+  {
+    "id": "anm-making-money",
+    "name": "Making Money",
+    "category": "symbols",
+    "url": "/static/animations/Making%20Money.svg",
+    "file": "Making Money.svg",
+    "duration": 5.517
+  },
+  {
+    "id": "anm-money",
+    "name": "Money",
+    "category": "symbols",
+    "url": "/static/animations/Money.svg",
+    "file": "Money.svg",
+    "duration": 3.0
+  },
+  {
+    "id": "anm-money-1",
+    "name": "Money (1)",
+    "category": "symbols",
+    "url": "/static/animations/Money%20%281%29.svg",
+    "file": "Money (1).svg",
+    "duration": 3.0
+  },
+  {
+    "id": "anm-money-stack",
+    "name": "Money stack",
+    "category": "symbols",
+    "url": "/static/animations/Money%20stack.svg",
+    "file": "Money stack.svg",
+    "duration": 2.769
+  },
+  {
+    "id": "anm-no-icon-lottie-json-animation",
+    "name": "No icon Lottie JSON animation",
+    "category": "symbols",
+    "url": "/static/animations/No%20icon%20Lottie%20JSON%20animation.svg",
+    "file": "No icon Lottie JSON animation.svg",
+    "duration": 2.0
+  },
+  {
+    "id": "anm-people",
+    "name": "People",
+    "category": "symbols",
+    "url": "/static/animations/People.svg",
+    "file": "People.svg",
+    "duration": 6.04
+  },
+  {
+    "id": "anm-people-1",
+    "name": "People (1)",
+    "category": "symbols",
+    "url": "/static/animations/people%20%281%29.svg",
+    "file": "people (1).svg",
+    "duration": 2.0
+  },
+  {
+    "id": "anm-red-pulsing-dot",
+    "name": "Red Pulsing Dot",
+    "category": "symbols",
+    "url": "/static/animations/Red%20Pulsing%20Dot.svg",
+    "file": "Red Pulsing Dot.svg",
+    "duration": 0.733
+  },
+  {
+    "id": "anm-tree-in-the-wind",
+    "name": "Tree in the wind",
+    "category": "symbols",
+    "url": "/static/animations/Tree%20in%20the%20wind.svg",
+    "file": "Tree in the wind.svg",
+    "duration": 5.0
+  },
+  {
+    "id": "anm-twitter-x1",
+    "name": "Twitter X1",
+    "category": "symbols",
+    "url": "/static/animations/Twitter%20X1.svg",
+    "file": "Twitter X1.svg",
+    "duration": 2.333
+  },
+  {
+    "id": "anm-what-s-app-icons",
+    "name": "What's app icons",
+    "category": "symbols",
+    "url": "/static/animations/What%27s%20app%20icons.svg",
+    "file": "What's app icons.svg",
+    "duration": 1.1
+  },
+  {
+    "id": "anm-yellow-taxi",
+    "name": "Yellow taxi",
+    "category": "symbols",
+    "url": "/static/animations/yellow%20taxi.svg",
+    "file": "yellow taxi.svg",
+    "duration": 0.533
+  },
+  {
+    "id": "anm-youtube",
+    "name": "Youtube",
+    "category": "symbols",
+    "url": "/static/animations/Youtube.svg",
+    "file": "Youtube.svg",
+    "duration": 2.667
+  },
+  {
+    "id": "anm-youtube-subscribe-button-animation",
+    "name": "Youtube Subscribe Button Animation",
+    "category": "symbols",
+    "url": "/static/animations/Youtube%20Subscribe%20Button%20Animation.svg",
+    "file": "Youtube Subscribe Button Animation.svg",
+    "duration": 4.0
+  },
+  {
+    "id": "anm-angry",
+    "name": "Angry",
+    "category": "reactions",
+    "url": "/static/animations/Angry.svg",
+    "file": "Angry.svg",
+    "duration": 3.0
+  },
+  {
+    "id": "anm-angry-eyes",
+    "name": "Angry eyes",
+    "category": "reactions",
+    "url": "/static/animations/Angry%20eyes.svg",
+    "file": "Angry eyes.svg",
+    "duration": 8.008
+  },
+  {
+    "id": "anm-cool-emoji",
+    "name": "Cool emoji",
+    "category": "reactions",
+    "url": "/static/animations/Cool%20emoji.svg",
+    "file": "Cool emoji.svg",
+    "duration": 3.0
+  },
+  {
+    "id": "anm-cool-emoji-animation",
+    "name": "Cool emoji animation",
+    "category": "reactions",
+    "url": "/static/animations/Cool%20emoji%20animation.svg",
+    "file": "Cool emoji animation.svg",
+    "duration": 1.9
+  },
+  {
+    "id": "anm-different-facial-expressions-for-receiving-feedback",
+    "name": "Different Facial expressions for receiving feedback",
+    "category": "reactions",
+    "url": "/static/animations/Different%20Facial%20expressions%20for%20receiving%20feedback.svg",
+    "file": "Different Facial expressions for receiving feedback.svg",
+    "duration": 11.0
+  },
+  {
+    "id": "anm-emojis-love",
+    "name": "Emojis Love",
+    "category": "reactions",
+    "url": "/static/animations/Emojis%20-%20Love.svg",
+    "file": "Emojis - Love.svg",
+    "duration": 5.014
+  },
+  {
+    "id": "anm-eyes-blinking",
+    "name": "Eyes blinking",
+    "category": "reactions",
+    "url": "/static/animations/Eyes%20blinking.svg",
+    "file": "Eyes blinking.svg",
+    "duration": 0.458
+  },
+  {
+    "id": "anm-facebook",
+    "name": "Facebook",
+    "category": "reactions",
+    "url": "/static/animations/Facebook.svg",
+    "file": "Facebook.svg",
+    "duration": 1.36
+  },
+  {
+    "id": "anm-finger-wagging",
+    "name": "Finger Wagging",
+    "category": "reactions",
+    "url": "/static/animations/Finger%20Wagging.svg",
+    "file": "Finger Wagging.svg",
+    "duration": 1.333
+  },
+  {
+    "id": "anm-happy-emoji",
+    "name": "Happy Emoji",
+    "category": "reactions",
+    "url": "/static/animations/Happy%20Emoji.svg",
+    "file": "Happy Emoji.svg",
+    "duration": 7.033
+  },
+  {
+    "id": "anm-like",
+    "name": "Like",
+    "category": "reactions",
+    "url": "/static/animations/like.svg",
+    "file": "like.svg",
+    "duration": 2.5
+  },
+  {
+    "id": "anm-like-button",
+    "name": "Like button",
+    "category": "reactions",
+    "url": "/static/animations/like%20button.svg",
+    "file": "like button.svg",
+    "duration": 2.0
+  },
+  {
+    "id": "anm-love-animation-with-particle",
+    "name": "Love Animation with Particle",
+    "category": "reactions",
+    "url": "/static/animations/Love%20Animation%20with%20Particle.svg",
+    "file": "Love Animation with Particle.svg",
+    "duration": 1.201
+  },
+  {
+    "id": "anm-love-emoji",
+    "name": "Love Emoji",
+    "category": "reactions",
+    "url": "/static/animations/Love%20Emoji.svg",
+    "file": "Love Emoji.svg",
+    "duration": 1.6
+  },
+  {
+    "id": "anm-screaming-fear-face",
+    "name": "Screaming Fear Face",
+    "category": "reactions",
+    "url": "/static/animations/Screaming%20Fear%20Face.svg",
+    "file": "Screaming Fear Face.svg",
+    "duration": 2.833
+  },
+  {
+    "id": "anm-soul-called-eyes",
+    "name": "Soul called eyes",
+    "category": "reactions",
+    "url": "/static/animations/soul-called%20eyes.svg",
+    "file": "soul-called eyes.svg",
+    "duration": 2.302
+  },
+  {
+    "id": "anm-sweat-grinning-emoji-animation",
+    "name": "Sweat grinning emoji animation",
+    "category": "reactions",
+    "url": "/static/animations/Sweat%20grinning%20emoji%20animation.svg",
+    "file": "Sweat grinning emoji animation.svg",
+    "duration": 1.7
+  },
+  {
+    "id": "anm-thinking",
+    "name": "Thinking",
+    "category": "reactions",
+    "url": "/static/animations/Thinking.svg",
+    "file": "Thinking.svg",
+    "duration": 4.0
+  },
+  {
+    "id": "anm-wow-emoji",
+    "name": "WOW Emoji",
+    "category": "reactions",
+    "url": "/static/animations/WOW%20Emoji.svg",
+    "file": "WOW Emoji.svg",
+    "duration": 2.683
+  }
+]

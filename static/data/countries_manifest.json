@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Indonesia",
+    "slug": "Indonesia",
+    "verts": 6999
+  },
+  {
+    "name": "Chile",
+    "slug": "Chile",
+    "verts": 6998
+  },
+  {
+    "name": "India",
+    "slug": "India",
+    "verts": 6995
+  },
+  {
+    "name": "China",
+    "slug": "China",
+    "verts": 6998
+  },
+  {
+    "name": "Brazil",
+    "slug": "Brazil",
+    "verts": 7000
+  },
+  {
+    "name": "Russia",
+    "slug": "Russia",
+    "verts": 6999
+  },
+  {
+    "name": "Norway",
+    "slug": "Norway",
+    "verts": 6996
+  },
+  {
+    "name": "United Kingdom",
+    "slug": "United_Kingdom",
+    "verts": 6999
+  },
+  {
+    "name": "United States of America",
+    "slug": "United_States_of_America",
+    "verts": 6999
+  },
+  {
+    "name": "Canada",
+    "slug": "Canada",
+    "verts": 7000
+  },
+  {
+    "name": "Mexico",
+    "slug": "Mexico",
+    "verts": 7000
+  },
+  {
+    "name": "Antarctica",
+    "slug": "Antarctica",
+    "verts": 7000
+  },
+  {
+    "name": "Australia",
+    "slug": "Australia",
+    "verts": 6999
+  },
+  {
+    "name": "Greenland",
+    "slug": "Greenland",
+    "verts": 6998
+  },
+  {
+    "name": "Philippines",
+    "slug": "Philippines",
+    "verts": 6996
+  }
+]

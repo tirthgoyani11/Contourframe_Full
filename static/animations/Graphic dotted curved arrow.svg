@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- the Curved arrow, DOTTED (owner, 2026-10-29): the same curve and head
+       and the same 2.4 s loop; the dots pop in along the curve as the line
+       would draw, hold, and leave last-first as it would retract -->
+  <g fill="#E5B84B">
+    <circle cx="28" cy="150" r="0">
+      <animate attributeName="r" dur="2.4s" repeatCount="indefinite" keyTimes="0;0.01;0.04;0.07;0.93;0.95;1" values="0;0;6.2;5;5;0;0"/>
+    </circle>
+    <circle cx="33.3" cy="133.7" r="0">
+      <animate attributeName="r" dur="2.4s" repeatCount="indefinite" keyTimes="0;0.046;0.076;0.106;0.923;0.943;1" values="0;0;6.2;5;5;0;0"/>
+    </circle>
+    <circle cx="40.2" cy="118.1" r="0">
+      <animate attributeName="r" dur="2.4s" repeatCount="indefinite" keyTimes="0;0.082;0.112;0.142;0.916;0.936;1" values="0;0;6.2;5;5;0;0"/>
+    </circle>
+    <circle cx="49.1" cy="103.5" r="0">
+      <animate attributeName="r" dur="2.4s" repeatCount="indefinite" keyTimes="0;0.118;0.148;0.178;0.909;0.929;1" values="0;0;6.2;5;5;0;0"/>
+    </circle>
+    <circle cx="59.9" cy="90.3" r="0">
+      <animate attributeName="r" dur="2.4s" repeatCount="indefinite" keyTimes="0;0.154;0.184;0.214;0.902;0.922;1" values="0;0;6.2;5;5;0;0"/>
+    </circle>
+    <circle cx="72.8" cy="79" r="0">
+      <animate attributeName="r" dur="2.4s" repeatCount="indefinite" keyTimes="0;0.19;0.22;0.25;0.895;0.915;1" values="0;0;6.2;5;5;0;0"/>
+    </circle>
+    <circle cx="87.5" cy="70.2" r="0">
+      <animate attributeName="r" dur="2.4s" repeatCount="indefinite" keyTimes="0;0.226;0.256;0.286;0.888;0.908;1" values="0;0;6.2;5;5;0;0"/>
+    </circle>
+    <circle cx="103.5" cy="64.3" r="0">
+      <animate attributeName="r" dur="2.4s" repeatCount="indefinite" keyTimes="0;0.262;0.292;0.322;0.881;0.901;1" values="0;0;6.2;5;5;0;0"/>
+    </circle>
+    <circle cx="120.3" cy="61.3" r="0">
+      <animate attributeName="r" dur="2.4s" repeatCount="indefinite" keyTimes="0;0.298;0.328;0.358;0.874;0.894;1" values="0;0;6.2;5;5;0;0"/>
+    </circle>
+    <circle cx="137.4" cy="61.2" r="0">
+      <animate attributeName="r" dur="2.4s" repeatCount="indefinite" keyTimes="0;0.334;0.364;0.394;0.867;0.887;1" values="0;0;6.2;5;5;0;0"/>
+    </circle>
+    <circle cx="154.3" cy="63.5" r="0">
+      <animate attributeName="r" dur="2.4s" repeatCount="indefinite" keyTimes="0;0.37;0.4;0.43;0.86;0.88;1" values="0;0;6.2;5;5;0;0"/>
+    </circle>
+  </g>
+  <g fill="none" stroke="#E5B84B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M136 52 L 166 66 L 152 94" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
+      <animate attributeName="stroke-dashoffset" dur="2.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.38;0.5;0.86;0.94;1" values="1;1;0;0;1;1" keySplines="0 0 1 1;0.4 0 0.2 1;0 0 1 1;0.4 0 1 1;0 0 1 1"/>
+    </path>
+  </g>
+</svg>

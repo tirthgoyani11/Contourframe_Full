@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <g transform="translate(100 100)" opacity="0"><animate attributeName="opacity" dur="1.4s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.24;0.28;0.5;0.64;1"/><g><animateTransform attributeName="transform" type="scale" dur="1.4s" repeatCount="indefinite" values="0.3;0.3;1.15;1;1" keyTimes="0;0.24;0.34;0.5;1"/><g transform="translate(-100 -100)">
+    <path d="M100 4 L 117.923 44.839 L 156.427 22.334 L 146.923 65.908 L 191.301 70.334 L 158 100 L 191.301 129.666 L 146.923 134.092 L 156.427 177.666 L 117.923 155.161 L 100 196 L 82.077 155.161 L 43.573 177.666 L 53.077 134.092 L 8.699 129.666 L 42 100 L 8.699 70.334 L 53.077 65.908 L 43.573 22.334 L 82.077 44.839 Z" fill="#FFD23F" stroke="#E8364A" stroke-width="6" stroke-linejoin="round"/>
+  </g></g></g>
+  <g transform="translate(100 104)"><g><animateTransform attributeName="transform" type="scale" dur="1.4s" repeatCount="indefinite" values="0.35;0.35;1.18;0.98;1;1;0.35" keyTimes="0;0.06;0.28;0.38;0.46;0.86;1" calcMode="spline" keySplines="0 0 1 1;0.6 0 1 1;0.2 0.8 0.3 1;0.4 0 0.6 1;0 0 1 1;0.4 0 1 1"/><g><animateTransform attributeName="transform" type="translate" dur="1.4s" repeatCount="indefinite" values="0 0;0 0;0 0;-3 2;3 -2;0 0;0 0" keyTimes="0;0.28;0.3;0.33;0.36;0.4;1"/><g transform="translate(-100 -104)">
+  <g fill="#0E2A3A" stroke="#0E2A3A" stroke-width="10" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="52" y="58" width="96" height="84" rx="30"/>
+    <rect x="40" y="102" width="56" height="34" rx="17" transform="rotate(-12 68 119)"/>
+  </g>
+  <g stroke="none">
+    <rect fill="#37C9E6" x="52" y="58" width="96" height="84" rx="30"/>
+    <rect fill="#37C9E6" x="40" y="102" width="56" height="34" rx="17" transform="rotate(-12 68 119)"/>
+  </g>
+  <g fill="none" stroke="#0E2A3A" stroke-width="5" stroke-linecap="round">
+    <path d="M76 62 C 74 74, 74 86, 78 96"/><path d="M100 60 C 98 72, 98 84, 102 96"/><path d="M124 62 C 122 74, 122 86, 126 96"/>
+  </g>
+  <ellipse cx="88" cy="72" rx="20" ry="6" fill="#A6EEFB" opacity="0.8"/>
+  <rect x="58" y="138" width="84" height="18" rx="5" fill="#E8364A" stroke="#0E2A3A" stroke-width="5"/>
+  </g></g></g></g>
+</svg>

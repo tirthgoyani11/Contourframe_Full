@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <path d="M100 56 L108.174 81.826 L134 90 L108.174 98.174 L100 124 L91.826 98.174 L66 90 L91.826 81.826 Z" fill="#E5B84B" transform-origin="100 90">
+    <animate attributeName="opacity" dur="2s" repeatCount="indefinite" keyTimes="0;0;0.25;0.5;0.75;1" values="0.3;0.3;1;0.3;0.3;0.3"/>
+    <animateTransform attributeName="transform" type="scale" dur="2s" repeatCount="indefinite" keyTimes="0;0;0.25;0.5;0.75;1" values="0.72;0.72;1;0.72;0.72;0.72"/>
+  </path>
+  <path d="M48 42 L52.327 55.673 L66 60 L52.327 64.327 L48 78 L43.673 64.327 L30 60 L43.673 55.673 Z" fill="#E5B84B" transform-origin="48 60">
+    <animate attributeName="opacity" dur="2s" repeatCount="indefinite" keyTimes="0;0.05;0.3;0.55;0.8;1" values="0.3;0.3;0.3;1;0.3;0.3"/>
+    <animateTransform attributeName="transform" type="scale" dur="2s" repeatCount="indefinite" keyTimes="0;0.05;0.3;0.55;0.8;1" values="0.72;0.72;0.72;1;0.72;0.72"/>
+  </path>
+  <path d="M150 34 L155.289 50.711 L172 56 L155.289 61.289 L150 78 L144.711 61.289 L128 56 L144.711 50.711 Z" fill="#E5B84B" transform-origin="150 56">
+    <animate attributeName="opacity" dur="2s" repeatCount="indefinite" keyTimes="0;0.05;0.3;0.55;0.8;1" values="1;0.3;0.3;0.3;1;1"/>
+    <animateTransform attributeName="transform" type="scale" dur="2s" repeatCount="indefinite" keyTimes="0;0.05;0.3;0.55;0.8;1" values="1;0.72;0.72;0.72;1;1"/>
+  </path>
+  <path d="M60 132 L63.847 144.153 L76 148 L63.847 151.847 L60 164 L56.153 151.847 L44 148 L56.153 144.153 Z" fill="#E5B84B" transform-origin="60 148">
+    <animate attributeName="opacity" dur="2s" repeatCount="indefinite" keyTimes="0;0;0.25;0.5;0.75;1" values="0.3;1;0.3;0.3;0.3;0.3"/>
+    <animateTransform attributeName="transform" type="scale" dur="2s" repeatCount="indefinite" keyTimes="0;0;0.25;0.5;0.75;1" values="0.72;1;0.72;0.72;0.72;0.72"/>
+  </path>
+  <path d="M146 120 L150.808 135.192 L166 140 L150.808 144.808 L146 160 L141.192 144.808 L126 140 L141.192 135.192 Z" fill="#E5B84B" transform-origin="146 140">
+    <animate attributeName="opacity" dur="2s" repeatCount="indefinite" keyTimes="0;0.15;0.4;0.65;0.9;1" values="0.3;0.3;1;0.3;0.3;0.3"/>
+    <animateTransform attributeName="transform" type="scale" dur="2s" repeatCount="indefinite" keyTimes="0;0.15;0.4;0.65;0.9;1" values="0.72;0.72;1;0.72;0.72;0.72"/>
+  </path>
+</svg>
