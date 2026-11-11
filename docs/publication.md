@@ -58,7 +58,7 @@ imagery and boundary data used by that run still need a separate rights review.
 This copy contains the original homepage, full editor, Python API, and their
 bundled source assets. Local databases, exports, cached tiles, test files,
 browser captures, credentials, legacy demo pages and local project videos were left
-out. The editor tutorial and two feature preview videos are included for local review. Verify their redistribution rights and any embedded branding before publishing. Test
+out. Two feature preview videos are included for local review. Verify their redistribution rights and any embedded branding before publishing. Test
 commands in the contributing guide refer to the development checkout.
 
 This folder is for review before a public push. The rights status of legacy

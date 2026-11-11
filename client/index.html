@@ -779,7 +779,7 @@
             <div class="tb-spacer"></div>
             <div class="tb-divider"></div>
             <button class="tb-btn" title="Export Video" onclick="showExportModal()"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg></button>
-            <button class="tb-btn" id="helpBtn" data-tutorial-action="open" title="Help"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></button>
+            <button class="tb-btn" id="helpBtn" onclick="window._startStudioTour ? window._startStudioTour() : window.location.assign('/#workflow')" title="Help"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></button>
         </div>
 
         
@@ -13037,112 +13037,7 @@ body.amm-guest [onclick*="aiAssistant"] { display: none !important; }
     </script>
 
     
-    <div id="tutorialOverlay" class="tutorial-overlay" hidden role="dialog" aria-labelledby="tutorialTitle" aria-modal="true">
-        <div class="tutorial-card">
-            <div class="tutorial-head">
-                <h2 id="tutorialTitle">Welcome to the Studio</h2>
-                <button type="button" class="tutorial-close" id="tutorialCloseBtn" data-tutorial-action="close" aria-label="Close tutorial">
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
-                </button>
-            </div>
-            <video id="tutorialVideo" controls playsinline preload="metadata"
-                   poster="/static/videos/tutorial-poster.jpg?v=1778836560">
-                <source src="/static/videos/tutorial.mp4?v=1778836560" type="video/mp4">
-            </video>
-            <div class="tutorial-foot">
-                <span class="tutorial-hint">You can replay this from the <strong>?</strong> button anytime.</span>
-                <button type="button" class="tutorial-dismiss" id="tutorialDismissBtn" data-tutorial-action="close">Got it</button>
-            </div>
-        </div>
-    </div>
 
-    <script>
-        // Tutorial overlay controller. Auto-opens once per browser; subsequent
-        // visits stay quiet but the Help button always reopens it on demand.
-        (function () {
-            const TUTORIAL_SEEN_KEY = 'amm_tutorial_seen_v1';
-
-            function _setOverlay(visible) {
-                const el = document.getElementById('tutorialOverlay');
-                if (!el) return;
-                if (visible) {
-                    el.removeAttribute('hidden');
-                    document.body.classList.add('tutorial-open');
-                } else {
-                    el.setAttribute('hidden', '');
-                    document.body.classList.remove('tutorial-open');
-                }
-            }
-
-            function openTutorial() {
-                _setOverlay(true);
-                if (window._activationEvent) window._activationEvent('tutorial_shown');
-                const v = document.getElementById('tutorialVideo');
-                if (v) {
-                    try { v.currentTime = 0; v.play().catch(() => {}); } catch (_) {}
-                }
-            }
-            function closeTutorial() {
-                _setOverlay(false);
-                const v = document.getElementById('tutorialVideo');
-                if (v) { try { v.pause(); } catch (_) {} }
-                try { localStorage.setItem(TUTORIAL_SEEN_KEY, '1'); } catch (_) {}
-            }
-            window.openTutorial = openTutorial;
-            window.closeTutorial = closeTutorial;
-
-            // Single document-level click delegate. Survives any per-element
-            // teardown (timeline rerenders the topbar, etc.) and works on
-            // buttons that don't exist at script-run time.
-            document.addEventListener('click', (e) => {
-                const target = e.target && e.target.closest ? e.target.closest('[data-tutorial-action]') : null;
-                if (target) {
-                    const action = target.getAttribute('data-tutorial-action');
-                    if (action === 'open') {
-                        e.preventDefault();
-                        // "?" interaktif turu baslatir (tum platformlar);
-                        // video karti yalniz tur tanimsizsa fallback.
-                        if (window._startStudioTour) window._startStudioTour();
-                        else openTutorial();
-                        return;
-                    }
-                    if (action === 'close') {
-                        e.preventDefault();
-                        closeTutorial();
-                        return;
-                    }
-                }
-                // Backdrop click — only close when the user actually clicks
-                // the overlay's own backdrop, not a child element.
-                const overlay = document.getElementById('tutorialOverlay');
-                if (overlay && !overlay.hasAttribute('hidden') && e.target === overlay) {
-                    closeTutorial();
-                }
-            }, true);  // capture phase — runs before any per-element handler that might stopPropagation
-            document.addEventListener('keydown', (e) => {
-                if (e.key !== 'Escape') return;
-                const ov = document.getElementById('tutorialOverlay');
-                if (ov && !ov.hasAttribute('hidden')) closeTutorial();
-            });
-
-            // First-visit auto-open. Defer so layout settles. If the
-            // preset picker is currently up (brand-new project flow),
-            // poll until it closes so the tutorial appears after — the
-            // user picks a preset first, then watches the walkthrough.
-            function _isPresetModalOpen() {
-                const m = document.getElementById('studioModal');
-                return !!(m && m.classList.contains('open'));
-            }
-            function _tryOpenTutorial() {
-                if (_isPresetModalOpen()) { setTimeout(_tryOpenTutorial, 500); return; }
-                openTutorial();
-            }
-            // Otomatik acilis YOK: ilk-acilis onboarding'i artik her
-            // platformda interaktif tur. Video karti yalniz tur tanimsizsa
-            // "?" fallback'i olarak erisilir (ust uste acilma cakismasi
-            // 2026-07-17'de bu yuzden yasanmisti).
-        })();
-    </script>
 
 
     
