@@ -16,8 +16,8 @@ node_modules/
 /static/midterms/
 /static/reference-map/
 /static/switzerland/
-/static/video/
-/static/videos/
+/static/video/*
+/static/videos/*
 /client/almost-touch/
 /client/midterms/
 /client/reference-map/
@@ -25,3 +25,11 @@ node_modules/
 
 # Local render excerpts pending redistribution review
 /static/showcase/
+
+# Studio UI media referenced by client/index.html
+!/static/video/war-morph-poster.webp
+!/static/video/war-morph.mp4
+!/static/video/zoom-hd-poster.jpg
+!/static/video/zoom-hd.mp4
+!/static/videos/tutorial-poster.jpg
+!/static/videos/tutorial.mp4
